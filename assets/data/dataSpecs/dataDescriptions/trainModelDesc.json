@@ -1,0 +1,154 @@
+[
+  {
+    "logo": "assets/transportLogo/trainModel/Avento.png",
+    "description": "Siemens Avento, tram-train utilisé notamment sur la ligne T4."
+  },
+  {
+    "logo": "assets/transportLogo/trainModel/B82500.png",
+    "description": "Alstom Citadis Dualis (AGC), train bi-mode et bi-courant (Bibi) pour les lignes TER et Transilien."
+  },
+  {
+    "logo": "assets/transportLogo/trainModel/Citadis302.png",
+    "description": "Alstom Citadis 302, tramway standard de longueur moyenne (environ 32m)."
+  },
+  {
+    "logo": "assets/transportLogo/trainModel/Citadis402.png",
+    "description": "Alstom Citadis 402, version longue du tramway (environ 44m), utilisé sur le T3a/T3b."
+  },
+  {
+    "logo": "assets/transportLogo/trainModel/Citadis405.png",
+    "description": "Alstom Citadis 405, version moderne et haute capacité du tramway (ex: ligne T10)."
+  },
+  {
+    "logo": "assets/transportLogo/trainModel/CitadisDualis.png",
+    "description": "Alstom Citadis Dualis, tram-train moderne remplaçant l'Avento (T11, T12, T13)."
+  },
+  {
+    "logo": "assets/transportLogo/trainModel/MF01.png",
+    "description": "Métro Fer 2001, matériel moderne avec intercirculation (Lignes 2, 5, 9)."
+  },
+  {
+    "logo": "assets/transportLogo/trainModel/MF67.png",
+    "description": "Métro Fer 1967, matériel historique emblématique du métro parisien (Lignes 3, 10, 12)."
+  },
+  {
+    "logo": "assets/transportLogo/trainModel/MF77.png",
+    "description": "Métro Fer 1977, conçu pour les lignes prolongeant en banlieue avec une forme galbée (Lignes 7, 8, 13)."
+  },
+  {
+    "logo": "assets/transportLogo/trainModel/MF88.png",
+    "description": "Métro Fer 1988, série expérimentale à roues orientables (Ligne 7 bis)."
+  },
+  {
+    "logo": "assets/transportLogo/trainModel/MI2N.png",
+    "description": "Matériel d'Interconnexion à 2 Niveaux, utilisé sur le RER A (Altéo)."
+  },
+  {
+    "logo": "assets/transportLogo/trainModel/MI09.png",
+    "description": "Matériel d'Interconnexion 2009, version moderne à deux niveaux du RER A."
+  },
+  {
+    "logo": "assets/transportLogo/trainModel/MI79.png",
+    "description": "Matériel d'Interconnexion 1979, le train historique du RER B (Z 8100)."
+  },
+  {
+    "logo": "assets/transportLogo/trainModel/MI84.png",
+    "description": "Matériel d'Interconnexion 1984, version dérivée du MI79 pour le RER B."
+  },
+  {
+    "logo": "assets/transportLogo/trainModel/MP05.png",
+    "description": "Métro Pneu 2005, matériel automatique sans conducteur (Lignes 1, 14)."
+  },
+  {
+    "logo": "assets/transportLogo/trainModel/MP14.png",
+    "description": "Métro Pneu 2014, dernière génération automatique et spacieuse (Lignes 4, 11, 14)."
+  },
+  {
+    "logo": "assets/transportLogo/trainModel/MP59.png",
+    "description": "Métro Pneu 1959, le plus vieux matériel sur pneus, aujourd'hui retiré."
+  },
+  {
+    "logo": "assets/transportLogo/trainModel/MP73.png",
+    "description": "Métro Pneu 1973, matériel historique de la ligne 6."
+  },
+  {
+    "logo": "assets/transportLogo/trainModel/MP89.png",
+    "description": "Métro Pneu 1989, existe en version CC (Ligne 6) et CA (Ligne 4, puis 6)."
+  },
+  {
+    "logo": "assets/transportLogo/trainModel/MS61.png",
+    "description": "Matériel Suburbain 1961, le train historique à un niveau du RER A (retiré)."
+  },
+  {
+    "logo": "assets/transportLogo/trainModel/TFS.png",
+    "description": "Tramway Français Standard (TFS), le matériel original de la ligne T1."
+  },
+  {
+    "logo": "assets/transportLogo/trainModel/TranslohrSTE3.png",
+    "description": "Translohr STE3, tramway sur pneus à guidage central, version courte (T5)."
+  },
+  {
+    "logo": "assets/transportLogo/trainModel/TranslohrSTE6.png",
+    "description": "Translohr STE6, tramway sur pneus à guidage central, version longue (T6)."
+  },
+  {
+    "logo": "assets/transportLogo/trainModel/TW20.png",
+    "description": "Alstom Citadis X05, le futur tramway moderne destiné à remplacer les TFS du T1."
+  },
+  {
+    "logo": "assets/transportLogo/trainModel/U25500.png",
+    "description": "SNCF U 25500, la désignation technique du tram-train Siemens Avento."
+  },
+  {
+    "logo": "assets/transportLogo/trainModel/VB2N.png",
+    "description": "Voiture de Banlieue à 2 Niveaux, rames tractées historiques (Ligne J, N)."
+  },
+  {
+    "logo": "assets/transportLogo/trainModel/Z5300.png",
+    "description": "Z 5300, ancienne automotrice en acier inoxydable surnommée 'Petit Gris'."
+  },
+  {
+    "logo": "assets/transportLogo/trainModel/Z5600.png",
+    "description": "Z 5600 (Z 2N), automotrice à deux niveaux monocourant (RER C, R, TER)."
+  },
+  {
+    "logo": "assets/transportLogo/trainModel/Z6100.png",
+    "description": "Z 6100, le 'Petit Gris' historique de la banlieue Nord (retiré)."
+  },
+  {
+    "logo": "assets/transportLogo/trainModel/Z6400.png",
+    "description": "Z 6400, automotrice à un niveau emblématique de la gare Saint-Lazare (Ligne L, retiré)."
+  },
+  {
+    "logo": "assets/transportLogo/trainModel/Z8800.png",
+    "description": "Z 8800 (Z 2N), version bicourant des rames à deux niveaux (RER C, U)."
+  },
+  {
+    "logo": "assets/transportLogo/trainModel/Z20500.png",
+    "description": "Z 20500 (Z 2N), le train à deux niveaux le plus répandu en Île-de-France (RER C, D, Lignes P, R)."
+  },
+  {
+    "logo": "assets/transportLogo/trainModel/Z20900.png",
+    "description": "Z 20900, version la plus moderne de la famille Z 2N (RER C)."
+  },
+  {
+    "logo": "assets/transportLogo/trainModel/Z22500.png",
+    "description": "Z 22500 (MI 2N Eole), version SNCF du MI 2N pour le RER E."
+  },
+  {
+    "logo": "assets/transportLogo/trainModel/Z50000.png",
+    "description": "Z 50000 'Francilien', train bombardier moderne, spacieux et lumineux (H, J, L, P)."
+  },
+  {
+    "logo": "assets/transportLogo/trainModel/Z57000.png",
+    "description": "Z 57000 (Regio 2N), train à deux niveaux nouvelle génération (RER D, Ligne R et N)."
+  },
+  {
+    "logo": "assets/transportLogo/trainModel/Z58000.png",
+    "description": "Z 58000 (RER NG), version moderne des trains de banlieux adaptée pour le RER E."
+  },
+  {
+    "logo": "assets/transportLogo/trainModel/Z58500.png",
+    "description": "Z 58500 (RER NG),  version moderne des trains de banlieux adaptée pour le RER D."
+  }
+]

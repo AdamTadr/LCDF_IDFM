@@ -1,0 +1,331 @@
+[
+{
+  "Ligne H": {
+    "ParagrHist": [
+      "title-Ligne H : l’axe du nord–ouest francilien",
+      "La ligne H du Transilien dessert le nord–ouest de l’Île–de–France, principalement le Val–d’Oise. Elle relie Paris–Nord à Luzarches, Pontoise et Persan – Beaumont via Montsoult – Maffliers et Valmondois, avec une branche transversale Pontoise – Creil. Exploitée par la SNCF, elle transporte environ 150 000 voyageurs par jour, soit 7 % des clients du réseau Transilien, et assure l’intermodalité avec le RER et les lignes de bus.",
+      "img-0",
+      "title-🏗️ Origines et constitution (1846–1880)",
+      "Les premières lignes constituant l'actuelle ligne H ont été ouvertes entre 1846 et 1880. La branche Paris – Pontoise est inaugurée en 1846 par la Compagnie des chemins de fer du Nord, la ligne vers Persan–Beaumont ouvre en 1877 et celle vers Luzarches en 1880. Ces lignes desservaient des communes en pleine expansion pour le transport des voyageurs et des marchandises.",
+      "title-🚂 Déclin de la vapeur et modernisation (1954–1975)",
+      "Le 30 juin 1954, la ligne d'Enghien–les–Bains à Montmorency est fermée. La modernisation et l’électrification des lignes par caténaire en 25 kV–50 Hz ont lieu entre 1969 et 1970, avec exploitation initiale des éléments Z 6100 et des voitures de banlieue Nord & Nord–PLM/RIB attelées à des locomotives BB 17000. Le 8 décembre 1970 marque le dernier jour de service des locomotives à vapeur. En 1975, les rames VB 2N sont mises en service, toujours attelées à des BB 17000.",
+      "img-1",
+      "title-🚆 Modernisation et renouvellement du matériel (1985–2001)",
+      "En 1985, les dernières voitures de banlieue Nord & Nord–PLM sont retirées. La mise en service des Z 20500 en 1988 permet de radier les RIB 60 en fin de vie. En 2001, la mise en service des Z 20900, version améliorée des Z 20500, entraîne le retrait de la première série des Z 6100. Cette même année, le réseau Transilien constitue officiellement la ligne H à partir du secteur nord–ouest du réseau banlieue de Paris–Nord.",
+      "title-📍 Développement des gares et lignes (2002–2004)",
+      "Le 24 mars 2002, la gare de Saint–Ouen–l'Aumône–Liesse est mise en service sur la branche Pontoise, entre Pierrelaye et Saint–Ouen–l'Aumône. Fin 2004, la relation Paris–Nord – Crépy–en–Valois est reprise par l'actuelle ligne K.",
+      "title-🚈 Arrivée des Francilien (2009–2016)",
+      "Le 21 octobre 2009, la première Z 50000 dite Francilien est livrée, et le 14 décembre 2009, elle entre en service commercial. Entre 2011 et 2012, tous les matériels à deux niveaux (Z 20500, Z 20900 et VB 2N) sont retirés et réaffectés sur d'autres lignes. Le 3 octobre 2012, le Centre d’information voyageurs de Paris–Nord est inauguré. Le 10 janvier 2013, les dernières Z 6100 sont retirées. Les rames Z 50000 circulent désormais sur les lignes radiales et, avec les RIB/RIO rénovées attelées à des BB 17000, sur la transversale Pontoise – Creil. Le 11 décembre 2013, le STIF décide d’acquérir six Francilien supplémentaires pour la transversale à partir de fin 2016, et le 15 décembre 2013, une nouvelle grille horaire basée sur les performances du Francilien est appliquée. Le 9 décembre 2016, les Francilien entrent en circulation sur l’axe transversal (Pontoise – Creil), remplaçant définitivement les trains composés de RIB attelées à des BB 17000.",
+      "title-🔁 Modernisation et perspectives (2017–aujourd’hui)",
+      "Depuis 2017, la ligne H continue sa modernisation : les gares sont équipées de nouveaux systèmes d’information voyageurs et d’accessibilité universelle, et la signalisation est renforcée. Le déploiement complet des rames Z 50000 homogénéise le matériel roulant sur toutes les branches. Des projets d’amélioration des correspondances avec le RER et les bus sont à l’étude.",
+      "video-0-0",
+      "title-🔍 Aujourd’hui",
+      "Aujourd’hui, la ligne H transporte environ 150 000 voyageurs par jour, reliant Paris à Pontoise, Persan–Beaumont et Luzarches, et reste un axe structurant du réseau Transilien dans la mobilité périurbaine."
+    ],
+    "images": [
+        { "Path": "assets/press/tgvTest.png", "credits": "© RATP – CC–BY 3.0", "description": "Une rame en bois de la Ligne 1 en 1900" },
+        { "Path": "assets/press/tgvTest.png", "credits": "© RATP – CC–BY 3.0", "description": "La station La Défense, terminus ouest de la Ligne 1" },
+        { "Path": "assets/press/tgvTest.png", "credits": "© RATP – CC–BY 3.0", "description": "Une rame MP 05 automatisée en station" },
+        { "Path": "assets/press/tgvTest.png", "credits": "© RATP – CC–BY 3.0", "description": "Portes palières installées lors de l’automatisation" }
+      ],
+      "sons": [
+        { "Path": "assets/content/images/RERTEST/sonTestRer.mp3", "credits": "© RATP – CC–BY 3.0", "description": "Annonce sonore en gare du Louvre – Rivoli" },
+        { "Path": "assets/content/images/RERTEST/sonTestRer.mp3", "credits": "© RATP – CC–BY 3.0", "description": "Annonce sonore en gare de La Défense" }
+      ],
+      "videos": [
+        { "Path": "m3q2q3668W4", "credits": "© INA / RATP – CC–BY 3.0", "description": "Reportage sur l’histoire de la Ligne 1" },
+        { "Path": "m3q2q3668W4", "credits": "© RATP – CC–BY 3.0", "description": "Présentation du chantier d’automatisation" }
+      ]
+  }
+    ,
+"Ligne J": {
+    "ParagrHist": [
+      "title-Ligne J : l’axe nord–ouest reliant Paris à la banlieue ouest",
+      "La ligne J relie Paris (Gare Saint–Lazare) à Ermont – Eaubonne, Conflans–Sainte–Honorine, Mantes–la–Jolie et Gisors. Exploitée par la SNCF, elle dessert les Yvelines et le Val–d’Oise, transportant environ 150 000 voyageurs chaque jour. La ligne joue un rôle clé dans la desserte de la banlieue ouest et dans les correspondances avec d’autres lignes Transilien, le RER et le réseau de bus régional.",
+      "img-0",
+      "title-🏗️ Origines et constitution (1837–1892)",
+      "Le 26 août 1837, la section Paris–Saint–Lazare – Asnières–sur–Seine est mise en service dans le cadre de la ligne de Paris–Saint–Lazare à Saint–Germain–en–Laye, la première ligne ferroviaire francilienne. Le 9 mai 1843, la section Paris–Saint–Lazare – Vernon–Giverny via Poissy et Mantes–la–Jolie est ouverte. Le 28 avril 1851, un embranchement part d'Asnières–sur–Seine vers Argenteuil, prolongé le 1er août 1863 jusqu'à Ermont – Eaubonne. Le 4 octobre 1868, la section Pontoise – Gisors est mise en service. Le 15 octobre 1877, la section Achères–Embranchement – Pontoise est ouverte. Le 1er juin 1892, un embranchement à la ligne de Paris–Saint–Lazare à Ermont – Eaubonne est inauguré jusqu’à Mantes–la–Jolie, avec jonction à Conflans–Fin–d'Oise.",
+      "title-⚡ Électrification et modernisation progressive (1924–1985)",
+      "Le 27 avril 1924, la section Paris–Saint–Lazare – Bois–Colombes est électrifiée en 750 V continu par 3e rail. Le 5 janvier 1936, la section Bois–Colombes – Argenteuil est électrifiée, permettant la mise en place d’un service régulier et cadencé. Entre 1966 et 1968, la section Paris–Saint–Lazare – Mantes et Ermont – Gisors est électrifiée en courant alternatif 25 kV par caténaire, avec modifications de voies et création de voies supplémentaires pour fluidifier le trafic. En 1975, l’exploitation sous 3e rail à Bois–Colombes prend fin. En mai 1983, la section Ermont – Argenteuil est électrifiée en 25 kV. Le 29 septembre 1985, la gare de Conflans–Fin–d'Oise est rouverte, améliorant les correspondances avec Cergy.",
+      "img-1",
+      "title-📈 Vers la création de la ligne J et cadencement (2004–2008)",
+      "En 2004, la ligne J est constituée à partir des groupes IV, V et VI du réseau Transilien Paris Saint–Lazare (anciennement ligne F nord). Le 27 août 2006, la section Argenteuil – Ermont – Eaubonne est intégrée à la ligne J après son abandon par la ligne C du RER. Le 14 décembre 2008, un cadencement est mis en œuvre, avec trains toutes les dix minutes aux heures de pointe et toutes les demi–heures le reste de la journée, améliorant la régularité et la capacité sur tous les axes principaux.",
+      "title-🚈 Modernisation du matériel roulant et rames Francilien (2013–2023)",
+      "Le 15 décembre 2013, les dernières Z 20500 sont retirées. Le 4 avril 2014, les rames Z 50000 (Francilien) entrent en service sur les axes Paris–Saint–Lazare – Ermont – Eaubonne et Paris–Saint–Lazare – Pontoise. Le 13 décembre 2015, les dernières RIB/RIO sont retirées. Le 20 février 2019, les Francilien circulent sur l'axe Paris–Saint–Lazare – Mantes–la–Jolie. En décembre 2020, la gare de Boissy–l'Aillerie est desservie par des Z 50000. Le 2 mai 2021, elles circulent sur l'axe Paris–Saint–Lazare – Gisors. Le 12 décembre 2021, les VB2N sont retirées des axes Paris – Mantes via Conflans, Paris – Ermont – Eaubonne et Paris – Gisors. Le 11 décembre 2022, la grille horaire est refondue sur les axes Paris–Saint–Lazare – Gisors et Paris–Saint–Lazare – Mantes–la–Jolie. En février 2023, les Francilien sont mises en service sur Mantes–la–Jolie – Vernon–Giverny, avec retrait définitif des VB2N de cet axe.",
+      "title-🔁 Modernisation et perspectives (2023–aujourd’hui)",
+      "Depuis 2023, la ligne J poursuit sa modernisation avec un matériel roulant homogène (Z 50000) sur toutes les branches, des gares rénovées et équipées de systèmes d’information voyageurs en temps réel, et des infrastructures modernisées pour améliorer la ponctualité et la sécurité. La ligne continue de jouer un rôle essentiel dans la mobilité quotidienne de la banlieue nord–ouest et ouest francilienne, tout en renforçant les correspondances avec d’autres lignes Transilien et RER.",
+      "video-0-0",
+      "title-🔍 Aujourd’hui",
+      "Aujourd’hui, la ligne J transporte environ 150 000 voyageurs par jour et reste une artère essentielle reliant Paris à Ermont, Conflans, Mantes–la–Jolie et Gisors. Elle assure des correspondances stratégiques avec le réseau Transilien et le RER, tout en bénéficiant d’une exploitation optimisée grâce aux rames Z 50000 et au cadencement régulier sur tous ses axes."
+    ],
+    "images": [
+        { "Path": "assets/press/tgvTest.png", "credits": "© RATP – CC–BY 3.0", "description": "Une rame en bois de la Ligne 1 en 1900" },
+        { "Path": "assets/press/tgvTest.png", "credits": "© RATP – CC–BY 3.0", "description": "La station La Défense, terminus ouest de la Ligne 1" },
+        { "Path": "assets/press/tgvTest.png", "credits": "© RATP – CC–BY 3.0", "description": "Une rame MP 05 automatisée en station" },
+        { "Path": "assets/press/tgvTest.png", "credits": "© RATP – CC–BY 3.0", "description": "Portes palières installées lors de l’automatisation" }
+      ],
+      "sons": [
+        { "Path": "assets/content/images/RERTEST/sonTestRer.mp3", "credits": "© RATP – CC–BY 3.0", "description": "Annonce sonore en gare du Louvre – Rivoli" },
+        { "Path": "assets/content/images/RERTEST/sonTestRer.mp3", "credits": "© RATP – CC–BY 3.0", "description": "Annonce sonore en gare de La Défense" }
+      ],
+      "videos": [
+        { "Path": "m3q2q3668W4", "credits": "© INA / RATP – CC–BY 3.0", "description": "Reportage sur l’histoire de la Ligne 1" },
+        { "Path": "m3q2q3668W4", "credits": "© RATP – CC–BY 3.0", "description": "Présentation du chantier d’automatisation" }
+      ]
+  }
+    ,
+  "Ligne K": {
+  "ParagrHist": [
+    "title-Ligne K : la liaison stratégique nord–est",
+    "La Ligne K relie Paris (Gare du Nord) à Crépy–en–Valois, en passant par Claye–Souilly et Nanteuil–le–Haudouin. Exploitée par la SNCF, elle dessert le nord–est francilien, principalement le département de l’Oise et certaines communes du Val–d’Oise. Avec environ 50 000 voyageurs quotidiens, elle constitue un axe secondaire mais essentiel, permettant aux habitants des zones périurbaines de rejoindre efficacement Paris et de bénéficier de correspondances avec d’autres lignes Transilien et RER.",
+    "img-0",
+    "title-🏗️ Origines et conception (1857–1871)",
+    "La ligne K repose sur des tronçons construits au XIXe siècle par la Compagnie des chemins de fer du Nord. La section Paris–Nord – Sevran est mise en service en 1860, suivie de la section Sevran – Crépy–en–Valois en 1861. Le prolongement jusqu’à Crépy–en–Valois est achevé en 1871. À l’origine, la ligne permettait le transport des voyageurs et des marchandises, contribuant au développement économique du nord–est de la région parisienne. Les premières gares, telles que Nanteuil–le–Haudouin et Claye–Souilly, étaient conçues pour accueillir un trafic croissant et faciliter les échanges avec la capitale.",
+    "title-🚆 Modernisation et électrification (1963–2013)",
+    "En septembre 1963, la ligne est électrifiée et les locomotives à vapeur sont remplacées par des BB 16500, remorquant des voitures de banlieue Nord des années 1930. Progressivement, le matériel est modernisé avec l’introduction des automotrices Z 6100 et, de manière occasionnelle, des rames RIB. Cette électrification et le matériel moderne améliorent l’accélération et la régularité des trains. Jusqu’en 2013, les Z 6100 constituent le matériel principal de la ligne, tandis que les VB 2N circulent occasionnellement jusqu’en 2012.",
+    "title-📈 Création de la ligne K et passage au Transilien (2004–2016)",
+    "Fin 2004, la ligne K est officiellement créée à partir de la partie orientale de l’ancienne ligne H. Elle reprend les dessertes vers Crépy–en–Valois et Claye–Souilly. La ligne bénéficie d’une identité visuelle harmonisée avec le reste du réseau Transilien et voit progressivement l’amélioration de son service. Le 11 décembre 2013, le STIF commande 18 rames Francilien (Z 50000) pour remplacer les RIB–RIO à partir de la fin 2016. Le 2 septembre 2016, les premières rames Z 50000 entrent en service, assurant l’intégralité du trafic et permettant le retrait des locomotives BB 17000 et des rames réversibles RIB.",
+    "title-🔧 Défis de régularité et modernisation (2016–aujourd’hui)",
+    "Depuis 2016, la ligne K fonctionne exclusivement avec des rames Francilien Z 50000, offrant un meilleur confort, une plus grande capacité et une accessibilité optimale. Le retrait définitif des VB 2N et des Z 6100 permet une homogénéisation du matériel roulant. Les gares ont été modernisées et la signalisation améliorée afin d’assurer ponctualité et régularité sur l’ensemble du parcours.",
+    "video-0-0",
+    "title-🔍 Aujourd’hui",
+    "Aujourd’hui, la ligne K transporte environ 50 000 voyageurs par jour. Elle relie efficacement Paris à Claye–Souilly et Crépy–en–Valois et constitue un axe stratégique du nord–est francilien, avec des correspondances importantes vers le réseau Transilien et le RER B."
+  ],
+  "images": [
+        { "Path": "assets/press/tgvTest.png", "credits": "© RATP – CC–BY 3.0", "description": "Une rame en bois de la Ligne 1 en 1900" },
+        { "Path": "assets/press/tgvTest.png", "credits": "© RATP – CC–BY 3.0", "description": "La station La Défense, terminus ouest de la Ligne 1" },
+        { "Path": "assets/press/tgvTest.png", "credits": "© RATP – CC–BY 3.0", "description": "Une rame MP 05 automatisée en station" },
+        { "Path": "assets/press/tgvTest.png", "credits": "© RATP – CC–BY 3.0", "description": "Portes palières installées lors de l’automatisation" }
+      ],
+      "sons": [
+        { "Path": "assets/content/images/RERTEST/sonTestRer.mp3", "credits": "© RATP – CC–BY 3.0", "description": "Annonce sonore en gare du Louvre – Rivoli" },
+        { "Path": "assets/content/images/RERTEST/sonTestRer.mp3", "credits": "© RATP – CC–BY 3.0", "description": "Annonce sonore en gare de La Défense" }
+      ],
+      "videos": [
+        { "Path": "m3q2q3668W4", "credits": "© INA / RATP – CC–BY 3.0", "description": "Reportage sur l’histoire de la Ligne 1" },
+        { "Path": "m3q2q3668W4", "credits": "© RATP – CC–BY 3.0", "description": "Présentation du chantier d’automatisation" }
+      ]
+}
+    ,
+  "Ligne L": {
+  "ParagrHist": [
+    "title-Ligne L : l’axe ouest et grande banlieue",
+    "La Ligne L relie Paris (Gare Saint–Lazare) à Cergy–le–Haut, Versailles–Rive Droite, Saint–Nom–la–Bretèche et autres destinations de l’ouest francilien. Exploitée par la SNCF, elle dessert principalement les Yvelines et le Val–d’Oise et transporte environ 150 000 voyageurs par jour. C’est un axe stratégique pour relier la capitale à ses banlieues ouest et nord–ouest, offrant des correspondances avec d’autres lignes Transilien et le RER A.",
+    "img-0",
+    "title-🏗️ Origines et conception (1837–1880)",
+    "La Ligne L s’appuie sur des tronçons construits dès le XIXe siècle par la Compagnie des chemins de fer de l’Ouest. La section Paris – Saint–Germain–en–Laye est inaugurée dès 1837, devenant l’une des premières lignes suburbaines françaises. Progressivement, elle est prolongée vers Versailles, Cergy et Saint–Nom–la–Bretèche. À l’origine, la ligne permettait le transport de voyageurs mais aussi des marchandises, participant au développement économique et résidentiel de la banlieue ouest de Paris. La section Paris – Versailles–Rive–Droite est mise en service en 1839, et les sections secondaires vers Saint–Nom–la–Bretèche et Cergy sont ouvertes progressivement entre 1877 et 1884.",
+    "title-🚆 Électrification et modernisation du réseau (1924–1977)",
+    "Le réseau Saint–Lazare connaît sa première électrification dans les années 1920 avec l'alimentation en courant continu 650 V par troisième rail. La section Paris – Bécon–les–Bruyères est électrifiée en 1924, suivie de Saint–Germain entre 1926 et 1927, et Versailles–Rive–Droite en 1928. Le matériel à vapeur est progressivement remplacé par des rames Standard. Dans les années 1960–1970, le réseau est réélectrifié en 25 kV monophasé, avec adaptations des ponts et tunnels, afin d’améliorer la capacité et la vitesse de service. Les nouvelles sections mises sous tension concernent Achères, Paris–Saint–Lazare, Saint–Cloud, Versailles et Saint–Nom–la–Bretèche, avec mise en place d’un block automatique lumineux pour sécuriser les circulations.",
+    "img-1",
+    "title-📈 Développement des antennes et intégration urbaine (1974–1994)",
+    "Pour desservir la ville nouvelle de Cergy–Pontoise, une nouvelle antenne est créée, avec mise en service de Cergy–Préfecture en 1979, Cergy–Saint–Christophe en 1985 et Cergy–le–Haut en 1994. La liaison La Défense – Saint–Quentin–en–Yvelines est inaugurée en 1995 grâce à un saut–de–mouton à Viroflay. La ligne devient stratégique pour l’interconnexion de la grande banlieue ouest et le développement des villes nouvelles.",
+    "title-🚉 Modernisation et intégration Transilien (1999–2004)",
+    "Le 20 septembre 1999, le label Transilien est lancé, harmonisant l'identité visuelle, les normes d'aménagement des gares et du matériel roulant en Île–de–France. En 2001, la SNCF publie la nomenclature des lignes Transilien : la future ligne L est alors encore intégrée au groupe II et III du réseau Saint–Lazare (anciennement ligne F sud). En décembre 2004, la ligne L est officiellement constituée à partir de ces groupes, tandis que la Grande Ceinture Ouest est réouverte entre Noisy–le–Roi et Saint–Germain–en–Laye–Grande–Ceinture après 68 ans d’interruption.",
+    "img-2-3",
+    "title-🔧 Ajustements et modernisation du service (2008–2010)",
+    "Le 4 février 2008, certaines missions Paris–Saint–Lazare – Maisons–Laffitte sont limitées à Nanterre–Université en journée de semaine pour améliorer la correspondance avec le RER A. Le 14 décembre 2008, un arrêt est créé à Pont–Cardinet pour les trains Paris – Cergy et l’offre est harmonisée sur les branches Versailles–Rive–Droite et Saint–Nom–la–Bretèche.",
+    "title-🚆 Mise en service des rames Francilien (2013–2018)",
+    "Le 15 juillet 2013, les premières rames Z 50000 Francilien circulent sur l’axe Paris–Saint–Lazare – Bécon–les–Bruyères. Le 11 décembre 2013, le STIF commande dix–neuf rames supplémentaires pour les axes Versailles–Rive–Droite et Saint–Nom–la–Bretèche. Le 15 décembre 2013 marque le retrait des dernières Z 20500, puis les Z 50000 sont progressivement déployées : 1er septembre 2014 sur Paris – Cergy–le–Haut, 11 décembre 2017 sur Paris – Versailles–Rive–Droite et 3 septembre 2018 sur Paris – Saint–Nom–la–Bretèche. Le 4 novembre 2020, le dernier Z 6400 circule après plus de 45 ans de service.",
+    "title-🔁 Travaux récents et perspectives (2019–aujourd’hui)",
+    "La Grande Ceinture Ouest est fermée en juillet 2019 pour travaux et sera intégrée en 2022 au tramway T13. Le 4 février 2020, un éboulement près de Sèvres – Ville–d'Avray provoque la fermeture temporaire de la ligne entre Saint–Cloud et Versailles–Rive–Droite. Aujourd’hui, la ligne L continue sa modernisation avec un matériel roulant homogène (Z 50000), des gares rénovées, accessibles et équipées de systèmes d’information voyageurs en temps réel, assurant confort, régularité et correspondances avec le RER A et d’autres lignes Transilien.",
+    "video-0-0",
+    "title-🔍 Aujourd’hui",
+    "Aujourd’hui, la Ligne L transporte environ 150 000 voyageurs par jour et constitue un axe structurant pour la banlieue ouest et nord–ouest de Paris. Elle relie efficacement Paris à Cergy, Versailles et Saint–Nom–la–Bretèche, tout en offrant des correspondances avec d’autres lignes Transilien et le RER A. Son rôle dans la mobilité quotidienne des Franciliens est essentiel, et elle continue d’évoluer pour répondre aux besoins d’une population en croissance."
+  ],
+ "images": [
+        { "Path": "assets/press/tgvTest.png", "credits": "© RATP – CC–BY 3.0", "description": "Une rame en bois de la Ligne 1 en 1900" },
+        { "Path": "assets/press/tgvTest.png", "credits": "© RATP – CC–BY 3.0", "description": "La station La Défense, terminus ouest de la Ligne 1" },
+        { "Path": "assets/press/tgvTest.png", "credits": "© RATP – CC–BY 3.0", "description": "Une rame MP 05 automatisée en station" },
+        { "Path": "assets/press/tgvTest.png", "credits": "© RATP – CC–BY 3.0", "description": "Portes palières installées lors de l’automatisation" }
+      ],
+      "sons": [
+        { "Path": "assets/content/images/RERTEST/sonTestRer.mp3", "credits": "© RATP – CC–BY 3.0", "description": "Annonce sonore en gare du Louvre – Rivoli" },
+        { "Path": "assets/content/images/RERTEST/sonTestRer.mp3", "credits": "© RATP – CC–BY 3.0", "description": "Annonce sonore en gare de La Défense" }
+      ],
+      "videos": [
+        { "Path": "m3q2q3668W4", "credits": "© INA / RATP – CC–BY 3.0", "description": "Reportage sur l’histoire de la Ligne 1" },
+        { "Path": "m3q2q3668W4", "credits": "© RATP – CC–BY 3.0", "description": "Présentation du chantier d’automatisation" }
+      ]
+}
+    ,
+"Ligne N": {
+    "ParagrHist": [
+      "title-Ligne N : l’axe sud–ouest vers la vallée de Chevreuse",
+      "La Ligne N relie Paris–Montparnasse aux communes de la vallée de Chevreuse, desservant notamment Versailles–Chantiers, Rambouillet, Plaisir–Grignon et Dreux. Exploitée par la SNCF, elle transporte environ 100 000 voyageurs par jour et constitue un axe clé pour la mobilité dans le sud–ouest francilien, reliant les zones résidentielles et périurbaines à Paris tout en offrant des correspondances avec d’autres lignes Transilien et le RER C.",
+      "img-0",
+      "title-🏗️ Origines et conception (1840–1880)",
+      "La ligne N s’appuie sur des tronçons construits au milieu du XIXe siècle par la Compagnie des chemins de fer de l’Ouest et plus tard sur le réseau Montparnasse. La section Paris–Montparnasse – Viroflay–Rive–Gauche est inaugurée en 1840, suivie par la liaison jusqu’à Rambouillet en 1849. L’embranchement vers Dreux est créé en 1864 et celui de la vallée de la Mauldre en 1900. La ligne servait à la fois au transport des voyageurs et des marchandises, facilitant le développement économique et résidentiel du sud–ouest francilien.",
+      "title-🚆 Modernisation et électrification (1930–2000)",
+      "Au XXe siècle, la ligne N est progressivement électrifiée et modernisée. La section Paris–Montparnasse – Rambouillet est électrifiée en courant continu 1,5 kV dès 1937, puis plusieurs embranchements en courant alternatif 25 kV monophasé entre 1966 et 1984. Les gares principales sont rénovées, la signalisation modernisée et de nouvelles rames introduites, offrant plus de confort, de sécurité et de capacité. Les rames Z 5300 et VB 2N deviennent emblématiques du réseau jusqu’à leur retrait respectif.",
+      "img-1",
+      "title-📈 Intégration au réseau Transilien (2000–2010)",
+      "Le 14 décembre 2000, la ligne N est officiellement intégrée au réseau Transilien, harmonisant identité visuelle, horaires et information voyageurs. Fin 2004, le réseau Transilien Paris–Montparnasse (ex–ligne G) devient la ligne N. Le 14 décembre 2008, la ligne est cadencée avec une augmentation significative de la desserte sur tous les axes. Les trains circulent désormais toutes les demi–heures ou tous les quarts d’heure selon les branches aux heures de pointe, et l’amplitude de service est étendue à la journée et au week–end.",
+      "title-🔧 Défis de régularité et modernisation continue (2010–2020)",
+      "La ligne N connaît une fréquentation croissante sur les axes Paris – Versailles, Rambouillet et Dreux. L’été 2015 marque le retrait des dernières rames Z 5300, et en 2020, la mise en circulation des rames Z 57000 (Francilien) modernise encore le matériel roulant. Les travaux portent sur la rénovation des gares, l’amélioration des voies et de la signalisation pour garantir régularité et confort.",
+      "img-2-3",
+      "title-🔁 Modernisation et perspectives (2020–aujourd’hui)",
+      "Depuis 2020, la ligne N poursuit sa modernisation : rénovation des gares principales, accessibilité universelle et installation de systèmes d’information voyageurs en temps réel. Les rames Z 50000 et Z 57000 assurent régularité, confort et capacité sur l’ensemble des branches. Le 20 octobre 2022, les dernières circulations des VB 2N et BB 27300 marquent la fin de l’ancien matériel. La ligne N reste un axe essentiel pour la mobilité dans le sud–ouest francilien et continue de développer ses correspondances avec le RER C et d’autres lignes Transilien.",
+      "video-0-0",
+      "title-🔍 Aujourd’hui",
+      "Aujourd’hui, la Ligne N transporte environ 100 000 voyageurs par jour et constitue un axe stratégique du sud–ouest francilien. Elle relie efficacement Paris à Versailles, Rambouillet, Plaisir–Grignon et Dreux, tout en offrant des correspondances avec d’autres lignes Transilien et le RER C. Son rôle est crucial pour la mobilité quotidienne et l’accessibilité des zones périurbaines à la capitale."
+    ],
+  "images": [
+        { "Path": "assets/press/tgvTest.png", "credits": "© RATP – CC–BY 3.0", "description": "Une rame en bois de la Ligne 1 en 1900" },
+        { "Path": "assets/press/tgvTest.png", "credits": "© RATP – CC–BY 3.0", "description": "La station La Défense, terminus ouest de la Ligne 1" },
+        { "Path": "assets/press/tgvTest.png", "credits": "© RATP – CC–BY 3.0", "description": "Une rame MP 05 automatisée en station" },
+        { "Path": "assets/press/tgvTest.png", "credits": "© RATP – CC–BY 3.0", "description": "Portes palières installées lors de l’automatisation" }
+      ],
+      "sons": [
+        { "Path": "assets/content/images/RERTEST/sonTestRer.mp3", "credits": "© RATP – CC–BY 3.0", "description": "Annonce sonore en gare du Louvre – Rivoli" },
+        { "Path": "assets/content/images/RERTEST/sonTestRer.mp3", "credits": "© RATP – CC–BY 3.0", "description": "Annonce sonore en gare de La Défense" }
+      ],
+      "videos": [
+        { "Path": "m3q2q3668W4", "credits": "© INA / RATP – CC–BY 3.0", "description": "Reportage sur l’histoire de la Ligne 1" },
+        { "Path": "m3q2q3668W4", "credits": "© RATP – CC–BY 3.0", "description": "Présentation du chantier d’automatisation" }
+      ]
+  }
+    ,
+  "Ligne P": {
+  "ParagrHist": [
+    "title-Ligne P : l’axe est et nord–est francilien",
+    "La Ligne P relie Paris–Est à Meaux, Château–Thierry, Coulommiers et Provins, desservant ainsi la Seine–et–Marne et l’Aisne. Exploitée par la SNCF, elle transporte environ 120 000 voyageurs par jour. Elle joue un rôle stratégique en connectant la capitale aux territoires de la grande couronne, tout en offrant des correspondances avec le RER E et d’autres lignes Transilien.",
+    "img-0",
+    "title-🏗️ Origines et conception (1849–1902)",
+    "La ligne P repose sur des tronçons construits au XIXe siècle par la Compagnie des chemins de fer de l’Est. La section Paris – Meaux est mise en service en 1849, suivie par les extensions vers Château–Thierry, Coulommiers et Provins jusqu’en 1902. Les lignes étaient destinées au transport de voyageurs et de marchandises, contribuant au développement économique des villes traversées. Les gares principales, comme Meaux et Château–Thierry, étaient conçues pour accueillir un trafic mixte croissant et offrir des correspondances vers d’autres destinations régionales.",
+    "title-🚆 Modernisation et électrification (1962–2000)",
+    "Au XXe siècle, la ligne P est progressivement électrifiée et modernisée. La section Paris – Château–Thierry est électrifiée en 25 kV dès 1962, suivie par les sections Noisy–le–Sec – Tournan (1973), Esbly – Crécy (1980) et Tournan – Coulommiers (1992). Le matériel roulant évolue avec l’introduction des VB 2N (1976), puis des automotrices Z 20500 (1995). Les gares sont rénovées et la signalisation modernisée pour améliorer la sécurité et la régularité.",
+    "img-1",
+    "title-📈 Intégration au réseau Transilien et naissance de la ligne P (2000–2010)",
+    "Le 14 décembre 2000, la ligne P est officiellement intégrée au réseau Transilien. En 2003–2004, les dernières VB 2N sont retirées et le réseau Transilien Paris–Est est renommé « ligne P ». Le cadencement est mis en place à partir du 13 décembre 2009, avec des fréquences renforcées sur les axes Paris – Meaux, Paris – Château–Thierry, Paris – Coulommiers et Paris – Provins. Le matériel B 82500 est progressivement mis en service sur les axes autonomes de la ligne entre 2008 et 2010.",
+    "title-🔧 Défis de régularité et modernisation continue (2010–2020)",
+    "La ligne P connaît une modernisation continue avec le déploiement des tram–trains U 25500 (2011) sur l’axe Esbly – Crécy–la–Chapelle, remplacés par les Citadis Dualis U 53600 en 2022, et l’introduction progressive des rames Francilien Z 50000 sur Paris – Meaux et Paris – Coulommiers (2013). Les travaux portent sur la rénovation des gares, l’amélioration de la signalisation et l’électrification des sections Gretz–Armainvilliers – Provins (2022), renforçant fiabilité et confort.",
+    "img-2-3",
+    "title-🔁 Modernisation et perspectives (2020–aujourd’hui)",
+    "Depuis 2020, la ligne P continue sa modernisation : installation de systèmes d’information voyageurs en temps réel, amélioration de l’accessibilité et homogénéisation du parc roulant avec le Z 50000. La section Esbly – Crécy–la–Chapelle est retirée de la ligne pour devenir la ligne T14 en mars 2025. L’électrification complète des axes Gretz–Armainvilliers – Provins permet de remplacer les B 82500 par des rames Francilien et de renforcer la desserte régionale.",
+    "video-0-0",
+    "title-🔍 Aujourd’hui",
+    "Aujourd’hui, la Ligne P transporte environ 120 000 voyageurs par jour et constitue un axe vital pour les déplacements quotidiens et régionaux. Elle relie efficacement Paris à Meaux, Château–Thierry, Coulommiers et Provins, tout en offrant des correspondances avec le RER E et d’autres lignes Transilien. Son rôle est essentiel pour la mobilité quotidienne et le développement économique des territoires desservis."
+  ],
+ "images": [
+        { "Path": "assets/press/tgvTest.png", "credits": "© RATP – CC–BY 3.0", "description": "Une rame en bois de la Ligne 1 en 1900" },
+        { "Path": "assets/press/tgvTest.png", "credits": "© RATP – CC–BY 3.0", "description": "La station La Défense, terminus ouest de la Ligne 1" },
+        { "Path": "assets/press/tgvTest.png", "credits": "© RATP – CC–BY 3.0", "description": "Une rame MP 05 automatisée en station" },
+        { "Path": "assets/press/tgvTest.png", "credits": "© RATP – CC–BY 3.0", "description": "Portes palières installées lors de l’automatisation" }
+      ],
+      "sons": [
+        { "Path": "assets/content/images/RERTEST/sonTestRer.mp3", "credits": "© RATP – CC–BY 3.0", "description": "Annonce sonore en gare du Louvre – Rivoli" },
+        { "Path": "assets/content/images/RERTEST/sonTestRer.mp3", "credits": "© RATP – CC–BY 3.0", "description": "Annonce sonore en gare de La Défense" }
+      ],
+      "videos": [
+        { "Path": "m3q2q3668W4", "credits": "© INA / RATP – CC–BY 3.0", "description": "Reportage sur l’histoire de la Ligne 1" },
+        { "Path": "m3q2q3668W4", "credits": "© RATP – CC–BY 3.0", "description": "Présentation du chantier d’automatisation" }
+      ]
+}
+    ,
+"Ligne R": {
+  "ParagrHist": [
+    "title-Ligne R : l’axe sud–est de Paris vers la grande couronne",
+    "La ligne R du Transilien relie Paris–Gare de Lyon à Montereau (Seine–et–Marne) et Montargis (Loiret), desservant le sud–est francilien. Exploitée par la SNCF, elle transporte environ 70 000 voyageurs par jour. La majorité de la ligne se situe en Île–de–France, mais l'extrémité de la branche de Montargis est en région Centre–Val de Loire.",
+    "img-0",
+    "title-🏗️ Origines et réalisation du réseau Paris–Lyon",
+    "La ligne s'appuie sur des tronçons construits au XIXe siècle par la Compagnie du chemin de fer de Paris à Lyon et à la Méditerranée (PLM). Le 3 janvier 1849, la section Melun – Montereau via Moret–Veneux–les–Sablons est mise en service. Le 12 août 1849, la section Paris – Melun via Combs–la–Ville est ouverte. La section Moret – Montargis suit le 14 août 1860, et la section Melun – Montereau via Héricy est inaugurée le 27 juin 1897 dans le cadre du plan Freycinet, pour renforcer la desserte de la grande ligne Paris–Lyon. Treize nouvelles gares sont créées à l’ouverture de cette section, dont Villabé, Le Coudray–Montceaux, Saint–Fargeau, Ponthierry–Pringy, et Champagne–sur–Seine.",
+    "title-🚆 Modernisation du réseau",
+    "L’électrification en courant continu 1,5 kV débute en 1950 pour la section Paris–Gare–de–Lyon – Montereau via Moret et Melun – Héricy. Les Z 5100 remplacent progressivement les anciennes locomotives et voitures de banlieue à partir de 1961, puis les Z 5300 prennent le relais dès 1982. La section Moret – Montargis est électrifiée le 9 mars 1988. En 1991, la section Vulaines – Montereau est intégrée au périmètre des transports parisiens. La première classe est supprimée sur tous les trains de banlieue et RER en 1999.",
+    "title-📈 Intégration au réseau Transilien et naissance de la ligne R",
+    "En 2001, la nomenclature Transilien désigne l'ancien réseau Paris–Lyon comme ligne K. Fin 2004, il devient officiellement la ligne R. Entre 2005 et 2008, des trains partent exceptionnellement de Paris–Bercy pour désaturer Paris–Gare–de–Lyon. Depuis le 14 décembre 2008, la ligne est cadencée sur toutes ses relations, avec renforcement de l’amplitude de service et augmentation significative de la desserte sur les axes Montargis – Paris et Montereau – Paris via Moret et Melun.",
+    "title-🔧 Modernisation du matériel roulant",
+    "Le 10 décembre 2017, les premières rames Z 57000 (Regio 2N) sont mises en service, permettant progressivement le remplacement des rames Z 5300. Le retrait définitif de ces dernières a lieu le 8 décembre 2018. Le matériel moderne offre plus de confort, de capacité et de régularité sur l’ensemble de la ligne, tout en optimisant les correspondances notamment à Melun.",
+    "title-🔍 Aujourd’hui",
+    "Aujourd’hui, la ligne R transporte environ 70 000 voyageurs par jour. Elle constitue un axe vital pour la mobilité dans le sud–est francilien et assure des correspondances avec le RER D et d’autres lignes Transilien. La desserte cadencée, le matériel Z 57000 et les infrastructures modernisées garantissent régularité, confort et fiabilité sur l’ensemble des branches."
+  ],
+ "images": [
+        { "Path": "assets/press/tgvTest.png", "credits": "© RATP – CC–BY 3.0", "description": "Une rame en bois de la Ligne 1 en 1900" },
+        { "Path": "assets/press/tgvTest.png", "credits": "© RATP – CC–BY 3.0", "description": "La station La Défense, terminus ouest de la Ligne 1" },
+        { "Path": "assets/press/tgvTest.png", "credits": "© RATP – CC–BY 3.0", "description": "Une rame MP 05 automatisée en station" },
+        { "Path": "assets/press/tgvTest.png", "credits": "© RATP – CC–BY 3.0", "description": "Portes palières installées lors de l’automatisation" }
+      ],
+      "sons": [
+        { "Path": "assets/content/images/RERTEST/sonTestRer.mp3", "credits": "© RATP – CC–BY 3.0", "description": "Annonce sonore en gare du Louvre – Rivoli" },
+        { "Path": "assets/content/images/RERTEST/sonTestRer.mp3", "credits": "© RATP – CC–BY 3.0", "description": "Annonce sonore en gare de La Défense" }
+      ],
+      "videos": [
+        { "Path": "m3q2q3668W4", "credits": "© INA / RATP – CC–BY 3.0", "description": "Reportage sur l’histoire de la Ligne 1" },
+        { "Path": "m3q2q3668W4", "credits": "© RATP – CC–BY 3.0", "description": "Présentation du chantier d’automatisation" }
+      ]
+}
+    ,
+"Ligne U": {
+  "ParagrHist": [
+    "title-Ligne U : la navette transversale de l’ouest francilien",
+    "La Ligne U, souvent appelée « Transilien La Défense – La Verrière », est une ligne transversale reliant deux grandes gares de la grande couronne ouest : La Défense et La Verrière. Exploitée par la SNCF, elle transporte environ 55 000 voyageurs par jour et joue un rôle stratégique en permettant de relier directement des zones résidentielles et économiques de l’ouest francilien sans passer par Paris, ce qui en fait une ligne très utile pour les déplacements quotidiens des banlieusards.",
+    "img-0",
+    "title-🏗️ Réalisation et origines (1839–1995)",
+    "La ligne U s’appuie sur des tronçons historiques construits au XIXe siècle. La section La Défense – raccordement de Viroflay est mise en service en 1839 dans le cadre de la ligne Paris–Saint–Lazare à Versailles–Rive–Droite. Les sections Versailles – La Verrière et raccordement de Viroflay sont ouvertes progressivement entre 1847 et 1852. L'électrification de la section La Défense – Viroflay date de 1928. La gare de La Défense est créée en 1959 puis définitivement ouverte en 1968 pour desservir le quartier d’affaires.",
+    "title-📈 Emergence du projet (1976–1991)",
+    "En 1976, le schéma directeur d'aménagement prévoit une liaison Saint–Quentin–en–Yvelines – La Défense pour améliorer la desserte banlieue–banlieue et désengorger les autoroutes. La section La Défense – Saint–Cloud est réélectrifiée en 25 kV – 50 Hz monophasé en 1976, et Saint–Cloud – Viroflay en 1977. En 1988, un premier schéma de principe du projet est proposé au STP et approuvé en 1991, amorçant la réflexion sur une ligne tangentielle réutilisant les infrastructures existantes.",
+    "title-🔁 Mise en service de la tangentielle (1995)",
+    "Le 28 mai 1995, la ligne tangentielle est mise en service avec du matériel bicourant Z 20500 et Z 8800, à raison d’un train toutes les demi–heures aux heures creuses et tous les quarts d’heure aux heures de pointe. L’investissement est modeste car il consiste principalement à connecter des infrastructures préexistantes et à moderniser certaines sections (pose de voies supplémentaires, électrification, saut–de–mouton, réaménagement de La Défense).",
+    "title-🚆 Modernisation et intégration Transilien (1995–2004)",
+    "Le 13 décembre 2003, les rames Z 20500 sont retirées. Fin 2004, la tangentielle est officiellement renommée « ligne U du Transilien » et devient une ligne à part entière. Un atelier de maintenance est inauguré à Trappes en 2005 pour assurer l’entretien des rames.",
+    "title-📈 Adaptation et modernisation (2005–2015)",
+    "Depuis 2005, l’offre de la ligne U est renforcée et cadencée. En décembre 2009, la mise en unité multiple du train DEFI est introduite pour répondre à la fréquentation. En décembre 2014, l’offre dominicale est améliorée et depuis décembre 2015, la desserte est modifiée : les gares de Sèvres – Ville–d'Avray et Chaville–Rive–Droite sont désormais desservies, tandis que la gare du Val d'Or perd la desserte de la ligne.",
+    "title-🔁 Modernisation et perspectives (2016–aujourd’hui)",
+    "Depuis 2016, la ligne U poursuit sa modernisation avec la rénovation des gares principales, l’installation d’informations voyageurs en temps réel et l’amélioration du confort à bord. Le matériel roulant a été progressivement remplacé par des rames Z 50000 (Francilien), offrant plus de capacité et de confort. La ligne U continue de jouer un rôle essentiel en reliant directement des zones résidentielles et économiques de l’ouest francilien sans passer par Paris.",
+    "video-0-0",
+    "title-🔍 Aujourd’hui",
+    "Aujourd’hui, la Ligne U transporte environ 55 000 voyageurs par jour et constitue une navette transversale incontournable pour l’ouest francilien. Elle relie efficacement La Défense à La Verrière, tout en offrant des correspondances avec le RER A, le RER C et d’autres lignes Transilien."
+  ],
+"images": [
+        { "Path": "assets/press/tgvTest.png", "credits": "© RATP – CC–BY 3.0", "description": "Une rame en bois de la Ligne 1 en 1900" },
+        { "Path": "assets/press/tgvTest.png", "credits": "© RATP – CC–BY 3.0", "description": "La station La Défense, terminus ouest de la Ligne 1" },
+        { "Path": "assets/press/tgvTest.png", "credits": "© RATP – CC–BY 3.0", "description": "Une rame MP 05 automatisée en station" },
+        { "Path": "assets/press/tgvTest.png", "credits": "© RATP – CC–BY 3.0", "description": "Portes palières installées lors de l’automatisation" }
+      ],
+      "sons": [
+        { "Path": "assets/content/images/RERTEST/sonTestRer.mp3", "credits": "© RATP – CC–BY 3.0", "description": "Annonce sonore en gare du Louvre – Rivoli" },
+        { "Path": "assets/content/images/RERTEST/sonTestRer.mp3", "credits": "© RATP – CC–BY 3.0", "description": "Annonce sonore en gare de La Défense" }
+      ],
+      "videos": [
+        { "Path": "m3q2q3668W4", "credits": "© INA / RATP – CC–BY 3.0", "description": "Reportage sur l’histoire de la Ligne 1" },
+        { "Path": "m3q2q3668W4", "credits": "© RATP – CC–BY 3.0", "description": "Présentation du chantier d’automatisation" }
+      ]
+}
+    ,
+"Ligne V": {
+  "ParagrHist": [
+    "title-Ligne V : la liaison tangentielle Massy – Versailles",
+    "La Ligne V du Transilien, ouverte officiellement le 15 décembre 2024, relie Massy – Palaiseau à Versailles–Chantiers dans le sud–ouest francilien. Il s'agit d'une ligne tangentielle, similaire à la ligne U, qui ne part pas de Paris mais facilite les déplacements inter–banlieues. Elle a été progressivement créée à partir du 4 décembre 2023 après sa désolidarisation du RER C, dans le cadre de la mise en service de la ligne T12 du tramway. La couleur vert olive foncé lui est assignée, en référence au cadre verdoyant de la vallée de la Bièvre.",
+    "title-🏗️ Historique et infrastructures",
+    "Le tronçon Juvisy – Versailles–Chantiers est initialement ouvert le 1er mai 1883 dans le cadre de la Grande Ceinture de Paris. La section est électrifiée en 1947 et intégrée au RER C en 1992 avant de devenir indépendante en 2024. Elle utilise les infrastructures existantes du réseau Paris–Austerlitz et de la Grande Ceinture, avec une électrification en 1 500 volts continu et des vitesses maximales de 100 km/h entre Massy et Igny, 80 km/h entre Igny et Jouy–en–Josas, et 90 km/h jusqu’à Versailles–Chantiers.",
+    "img-0",
+    "title-🚆 Exploitation",
+    "La ligne est exploitée par SNCF Voyageurs, en commun avec le RER C pour le matériel et les ateliers. Elle fonctionne de 5 h à minuit avec des rames Z 5600, Z 8800, Z 20500 et Z 20900. La fréquence varie selon les heures : toutes les 15 minutes aux heures de pointe et toutes les 30 minutes aux heures creuses. Le trajet complet dure environ 20 minutes.",
+    "img-1",
+    "title-🛤️ Liste des gares",
+    "La ligne dessert 7 gares principales : Massy – Palaiseau, Igny, Bièvres, Vauboyen, Jouy–en–Josas, Petit Jouy – Les Loges et Versailles–Chantiers. Massy – Palaiseau et Versailles–Chantiers sont les terminus principaux et permettent des correspondances avec le RER B, le RER C, le tramway T12 et d'autres lignes Transilien.",
+    "img-2",
+    "title-📋 Codes missions",
+    "Les missions sont codées sur quatre lettres, la première indiquant la destination : M pour Massy – Palaiseau, C pour Versailles–Chantiers. Exemple : CIME pour un train vers Versailles–Chantiers, MICK vers Massy – Palaiseau.",
+    "title-💰 Tarification et financement",
+    "La tarification suit le modèle RER et Transilien, avec un ticket « métro–train–RER » valable 2 h pour un trajet simple. Le financement est assuré par Île–de–France Mobilités et SNCF Voyageurs.",
+    "title-🔍 Aujourd’hui",
+    "Aujourd’hui, la ligne V constitue une liaison tangentielle stratégique pour le sud–ouest francilien. Elle permet de relier efficacement Massy à Versailles, en desservant les gares de la vallée de la Bièvre et en facilitant les correspondances avec le RER et d’autres lignes Transilien. La ligne est essentielle pour les déplacements inter–banlieues et pour le désengorgement du RER C.",
+    "video-0-0"
+  ],
+ "images": [
+        { "Path": "assets/press/tgvTest.png", "credits": "© RATP – CC–BY 3.0", "description": "Une rame en bois de la Ligne 1 en 1900" },
+        { "Path": "assets/press/tgvTest.png", "credits": "© RATP – CC–BY 3.0", "description": "La station La Défense, terminus ouest de la Ligne 1" },
+        { "Path": "assets/press/tgvTest.png", "credits": "© RATP – CC–BY 3.0", "description": "Portes palières installées lors de l’automatisation" }
+      ],
+      "sons": [
+        { "Path": "assets/content/images/RERTEST/sonTestRer.mp3", "credits": "© RATP – CC–BY 3.0", "description": "Annonce sonore en gare du Louvre – Rivoli" },
+        { "Path": "assets/content/images/RERTEST/sonTestRer.mp3", "credits": "© RATP – CC–BY 3.0", "description": "Annonce sonore en gare de La Défense" }
+      ],
+      "videos": [
+        { "Path": "m3q2q3668W4", "credits": "© INA / RATP – CC–BY 3.0", "description": "Reportage sur l’histoire de la Ligne 1" },
+        { "Path": "m3q2q3668W4", "credits": "© RATP – CC–BY 3.0", "description": "Présentation du chantier d’automatisation" }
+      ]
+}
+
+}
+]

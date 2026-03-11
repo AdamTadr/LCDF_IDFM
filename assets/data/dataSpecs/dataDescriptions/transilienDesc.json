@@ -1,0 +1,38 @@
+[
+  {
+    "logo": "assets/transportLogo/transilien/only/LigneH.svg",
+    "description": "La ligne H relie Paris Gare du Nord à plusieurs villes du nord de l’Île-de-France, comme Pontoise, Persan-Beaumont ou Luzarches. Exploitée par la SNCF, elle dessert 36 gares et transporte de nombreux usagers du Val-d’Oise chaque jour."
+  },
+  {
+    "logo": "assets/transportLogo/transilien/only/LigneJ.svg",
+    "description": "La ligne J part de Paris Saint-Lazare vers Mantes-la-Jolie, Gisors et Ermont. Elle traverse les Hauts-de-Seine, les Yvelines et le Val-d’Oise. Gérée par la SNCF, elle compte environ 52 gares."
+  },
+  {
+    "logo": "assets/transportLogo/transilien/only/LigneK.svg",
+    "description": "La ligne K relie Paris Gare du Nord à Crépy-en-Valois, traversant le nord-est de l’Île-de-France. Elle dessert des villes comme Aulnay-sous-Bois ou Mitry. C’est une ligne courte mais essentielle."
+  },
+  {
+    "logo": "assets/transportLogo/transilien/only/LigneL.svg",
+    "description": "La ligne L part de Paris Saint-Lazare et dessert Versailles Rive Droite, Cergy et Saint-Nom-la-Bretèche. Très utilisée dans les Hauts-de-Seine et les Yvelines, elle est exploitée par la SNCF."
+  },
+  {
+    "logo": "assets/transportLogo/transilien/only/LigneN.svg",
+    "description": "La ligne N relie Paris Montparnasse à Rambouillet, Dreux et Mantes-la-Jolie. Elle dessert l’ouest parisien avec 35 gares et joue un rôle important dans les déplacements quotidiens en Yvelines."
+  },
+  {
+    "logo": "assets/transportLogo/transilien/only/LigneP.svg",
+    "description": "La ligne P part de Paris Est vers Meaux, Château-Thierry, La Ferté-Milon ou Provins. Elle dessert de nombreuses zones rurales de Seine-et-Marne et fait partie des plus longues lignes du Transilien."
+  },
+  {
+    "logo": "assets/transportLogo/transilien/only/LigneR.svg",
+    "description": "La ligne R relie Paris Gare de Lyon à Montargis et Montereau. Elle traverse la Seine-et-Marne avec un service cadencé et des trains longs, essentiels pour les trajets domicile-travail."
+  },
+  {
+    "logo": "assets/transportLogo/transilien/only/LigneU.svg",
+    "description": "La ligne U relie La Défense à La Verrière en passant par Saint-Quentin-en-Yvelines. C’est la seule ligne Transilien qui ne passe pas par Paris. Elle facilite les trajets de banlieue à banlieue."
+  },
+  {
+    "logo": "assets/transportLogo/transilien/only/LigneV.svg",
+    "description": "La ligne V relie Paris Saint-Lazare à Vernon. Elle traverse les Yvelines et l’Eure, desservant une quinzaine de gares entre zones urbaines et rurales."
+  }
+]

@@ -1,0 +1,22 @@
+[
+  {
+    "logo": "assets/transportLogo/rer/ratp/RERA.svg",
+    "description": "Le RER A est l’une des lignes les plus essentielles du réseau francilien. Il traverse l’Île-de-France sur 108 kilomètres, d’est en ouest, et dessert 46 gares, dont plusieurs pôles majeurs comme La Défense, Châtelet - Les Halles ou Nation. Chaque jour, plus de 1,2 million de voyageurs l’empruntent, ce qui en fait la ligne ferroviaire la plus fréquentée d’Europe. Le RER A est exploité conjointement par la RATP et la SNCF, une organisation partagée que l’on ne retrouve que sur deux lignes du RER, A et B."
+  },
+  {
+    "logo": "assets/transportLogo/rer/ratp/RERB.svg",
+    "description": "Le RER B est une ligne stratégique du réseau francilien, reliant le nord et le sud de l’Île-de-France. Long de 80 km, il dessert 47 gares, de l’aéroport Charles-de-Gaulle à Saint-Rémy-lès-Chevreuse ou Robinson. Il traverse Paris via Châtelet - Les Halles, assurant des correspondances avec plusieurs lignes de métro et RER. En semaine, plus de 900 000 voyageurs l’utilisent. Comme le RER A, il est exploité par la RATP au sud et la SNCF au nord, ce qui en fait l'une des deux lignes à gestion mixte."
+  },
+  {
+    "logo": "assets/transportLogo/rer/sncf/RERC.svg",
+    "description": "Le RER C traverse Paris d’est en ouest en longeant la Seine. Avec ses 162 km, c’est la deuxième plus longue ligne du RER (après le rer D). Elle relie Pontoise, Versailles, Dourdan ou Massy à Paris, en passant par des lieux touristiques majeurs comme la Tour Eiffel, les Invalides ou Notre-Dame. Exploitée par la SNCF, elle dessert 75 gares. En raison de sa complexité et de nombreux tronçons, elle connaît souvent des ralentissements, mais reste une ligne essentielle du réseau."
+  },
+  {
+    "logo": "assets/transportLogo/rer/sncf/RERD.svg",
+    "description": "Le RER D est la plus longue ligne du réseau francilien, avec 197 km de voies. Il relie Creil au nord à Melun et Malesherbes au sud, traversant Paris par la gare de Lyon et Châtelet - Les Halles. Il dessert 59 gares et transporte environ 615 000 voyageurs chaque jour. Géré par la SNCF, le RER D est connu pour sa grande longueur et ses nombreuses branches, qui compliquent l’exploitation, bien que plusieurs travaux visent à améliorer sa régularité."
+  },
+  {
+    "logo": "assets/transportLogo/rer/sncf/RERE.svg",
+    "description": "Le RER E est la plus récente des lignes RER. Ouvert en 1999, il relie l’est francilien à Paris, entre Chelles, Tournan et Haussmann - Saint-Lazare. Il dessert 22 gares sur environ 56 km. La ligne est exploitée par la SNCF et fait partie du projet EOLE, une extension vers l’ouest jusqu’à Nanterre, qui transformera son rôle dans le réseau. Cette extension doit fortement augmenter sa capacité, en en faisant une ligne majeure du futur Grand Paris."
+  }
+]

@@ -1,0 +1,176 @@
+[
+  {
+    "Ligne A": { 
+      "ParagrHist": [
+        "title-Ligne A : la colonne vertébrale est–ouest",
+        "La Ligne A est sans doute la ligne de transport la plus emblématique d’Île–de–France. Véritable colonne vertébrale reliant l’est et l’ouest de la région capitale, elle transporte aujourd’hui plus de 1,2 million de voyageurs chaque jour, ce qui en fait la ligne ferroviaire la plus fréquentée d’Europe. Sa création et son développement sont directement liés à l’urbanisation rapide de la région parisienne dans les années 1960–1970 et à la volonté d’offrir un système capable de relier directement les banlieues entre elles sans passer par la gare de surface de Paris.",
+        "img-0",
+        "title-🏗️ Origines et conception (1960 à 1977)",
+        "Dès la fin des années 1950, la croissance démographique en banlieue parisienne rend le réseau existant saturé et inadapté. Les ingénieurs imaginent alors un réseau hybride, capable de combiner la fréquence du métro avec la capacité des trains de banlieue. La RATP se charge de creuser un tunnel central entre Nation et Étoile, tandis que la SNCF prépare le raccordement avec ses lignes de banlieue existantes. En 1969, un premier tronçon est inauguré entre Nation et Boissy–Saint–Léger. L’aboutissement arrive le 9 décembre 1977 : le tunnel reliant Auber à Nation est ouvert, connectant les réseaux est et ouest. Le « RER A » est officiellement né et devient immédiatement un symbole de modernité et d’efficacité.",
+        "title-🚆 Expansion vers l’ouest (1977 à 1992)",
+        "Après sa mise en service, la ligne connaît une série d’extensions qui renforcent son rôle structurant. À l’ouest, la desserte atteint successivement Saint–Germain–en–Laye (1972, via conversion de l’ancienne ligne de Saint–Germain), puis les nouvelles villes de Cergy et Poissy à la fin des années 1980, dans le cadre du développement des villes nouvelles voulues par l’État. À l’est, la ligne est prolongée jusqu’à Torcy en 1980 puis jusqu’à Marne–la–Vallée – Chessy en 1992, permettant de desservir le nouveau parc Disneyland Paris. Ces prolongements transforment la Ligne A en véritable « autoroute ferroviaire », reliant entre elles des zones résidentielles, des pôles économiques comme La Défense, et des destinations de loisirs.",
+        "img-1",
+        "title-📈 Saturation et innovations (1990 à 2010)",
+        "Le succès est tel que la ligne se retrouve rapidement victime de sa fréquentation. Dans les années 1990, la fréquentation dépasse le million de voyageurs par jour, entraînant une surcharge chronique, notamment dans le tronçon central. Pour répondre à ce défi, des solutions inédites sont mises en place : introduction des rames à deux niveaux MI2N en 1997, puis des MI09 à partir de 2011, afin d’accroître la capacité de transport sans réduire la fréquence. La signalisation SACEM (système d’aide à la conduite, à l’exploitation et à la maintenance) est également installée, permettant de faire circuler les trains à des intervalles exceptionnellement réduits de 90 secondes dans le tronçon central – une prouesse pour une ligne de type ferroviaire.",
+        "img-2-3",
+        "title-🔁 Modernisation continue (2015 à aujourd’hui)",
+        "Face à une fréquentation toujours record et aux besoins de confort accrus, la ligne continue sa transformation. Les gares principales comme Châtelet–les–Halles ou La Défense sont agrandies et modernisées pour fluidifier les flux. Le matériel roulant est progressivement unifié avec la généralisation des MI09, plus spacieux, climatisés et accessibles. Des projets de pilotage automatique partiel sont expérimentés pour améliorer la régularité. Parallèlement, la RATP et la SNCF collaborent étroitement pour optimiser la gestion d’une ligne dont l’exploitation est particulièrement complexe en raison de ses multiples branches et de sa double tutelle.",
+        "img-0-0",
+        "title-🔍 Aujourd’hui",
+        "Aujourd’hui, la Ligne A est l’un des piliers d’Île–de–France Mobilités. Elle dessert à la fois des centres économiques majeurs comme La Défense, des zones résidentielles denses, et des lieux de loisirs internationaux comme Disneyland Paris. Son histoire incarne la modernisation des transports franciliens depuis un demi–siècle, et son avenir reste tourné vers l’innovation, car elle doit en permanence s’adapter à une fréquentation qui ne cesse de croître."
+      ],
+      "images": [
+        { "Path": "assets/press/tgvTest.png", "credits": "© RATP – CC–BY 3.0", "description": "Une rame en bois de la Ligne 1 en 1900" },
+        { "Path": "assets/press/tgvTest.png", "credits": "© RATP – CC–BY 3.0", "description": "La station La Défense, terminus ouest de la Ligne 1" },
+        { "Path": "assets/press/tgvTest.png", "credits": "© RATP – CC–BY 3.0", "description": "Une rame MP 05 automatisée en station" },
+        { "Path": "assets/press/tgvTest.png", "credits": "© RATP – CC–BY 3.0", "description": "Portes palières installées lors de l’automatisation" }
+      ],
+      "sons": [
+        { "Path": "assets/content/images/RERTEST/sonTestRer.mp3", "credits": "© RATP – CC–BY 3.0", "description": "Annonce sonore en gare du Louvre – Rivoli" },
+        { "Path": "assets/content/images/RERTEST/sonTestRer.mp3", "credits": "© RATP – CC–BY 3.0", "description": "Annonce sonore en gare de La Défense" }
+      ],
+      "videos": [
+        { "Path": "m3q2q3668W4", "credits": "© INA / RATP – CC–BY 3.0", "description": "Reportage sur l’histoire de la Ligne 1" },
+        { "Path": "m3q2q3668W4", "credits": "© RATP – CC–BY 3.0", "description": "Présentation du chantier d’automatisation" }
+      ]
+    },
+    "Ligne B": { 
+      "ParagrHist": [
+        "title-Ligne B : l’axe nord–sud incontournable",
+        "La Ligne B est la deuxième ligne de RER à avoir vu le jour. Mise en service en 1977, elle traverse Paris du nord au sud et dessert deux aéroports internationaux : Roissy–Charles–de–Gaulle et Orly (via Orlyval). Avec près d’un million de voyageurs chaque jour, c’est l’une des lignes les plus fréquentées d’Île–de–France, jouant un rôle vital dans les déplacements quotidiens mais aussi dans les connexions internationales.",
+        "img-0",
+        "title-🏗️ Origines et conception (1950 à 1977)",
+        "Dès les années 1950, le projet d’une grande liaison nord–sud est envisagé. La ligne doit relier les gares du Nord et de Lyon en souterrain pour permettre un passage direct sous Paris. La RATP commence par moderniser la ligne de Sceaux, une petite ligne de banlieue exploitée depuis le XIXe siècle, qu’elle intègre dans son réseau en 1977. Le 9 décembre 1977, comme pour la Ligne A, le tunnel central est inauguré entre Châtelet–les–Halles et Gare du Nord, scellant la naissance officielle de la Ligne B. Elle devient ainsi le premier axe ferroviaire traversant Paris du nord au sud sans rupture de charge.",
+        "title-🚆 Extensions vers les aéroports (1980 à 1994)",
+        "La Ligne B prend rapidement une dimension internationale. En 1981, elle est prolongée au nord vers l’aéroport de Roissy–Charles–de–Gaulle, permettant un accès direct entre Paris et l’aéroport. Cette extension est stratégique et contribue au rayonnement mondial de la capitale. Au sud, la ligne est prolongée jusqu’à Saint–Rémy–lès–Chevreuse en reprenant l’ancienne ligne de Sceaux modernisée. En 1991, une navette automatisée baptisée Orlyval est mise en service pour relier la gare Antony à l’aéroport d’Orly, intégrant ainsi Orly au réseau RER. En 1994, la branche nord atteint Mitry–Claye, renforçant encore son rôle structurant.",
+        "img-1",
+        "title-📈 Montée en puissance et défis de co exploitation (1990 à 2010)",
+        "La Ligne B se distingue des autres par sa co–exploitation : la partie sud est exploitée par la RATP, la partie nord par la SNCF. Cette organisation particulière entraîne parfois des difficultés de gestion, mais elle illustre la volonté d’intégrer au mieux les réseaux. La fréquentation augmente fortement, poussée par la desserte des grands pôles comme la Cité Universitaire, le Stade de France ou les aéroports. De nouveaux trains, les MI79 et MI84, sont introduits pour répondre aux besoins croissants. Toutefois, les contraintes techniques et la saturation dans le tronçon central (Châtelet–Gare du Nord) deviennent un défi majeur à partir des années 2000.",
+        "img-2-3",
+        "title-🔁 Modernisation continue (2010 à aujourd’hui)",
+        "Depuis les années 2010, la Ligne B bénéficie de grands travaux de modernisation. Le programme RER B Nord+ a permis d’améliorer la régularité et la vitesse des trains au nord de Paris. De plus, les anciennes rames MI79 et MI84 ont été rénovées pour offrir un meilleur confort, mais elles seront progressivement remplacées par le futur matériel RER NG à partir de 2025. Les gares sont également modernisées, avec une attention particulière portée à l’accessibilité et à l’information voyageurs. Ces transformations visent à faire face à une fréquentation toujours en hausse et à garantir un service plus fiable.",
+        "img-0-0",
+        "title-🔍 Aujourd’hui",
+        "La Ligne B est aujourd’hui un axe vital de la région parisienne, reliant deux grands aéroports, de nombreuses universités, pôles économiques et quartiers résidentiels. Elle incarne la vocation internationale de Paris et reste, avec la Ligne A, l’un des symboles de l’intégration ferroviaire en Île–de–France. Malgré ses défis d’exploitation, elle est indispensable aux déplacements quotidiens de près d’un million de voyageurs."
+      ],
+      "images": [
+        { "Path": "assets/press/tgvTest.png", "credits": "© RATP – CC–BY 3.0", "description": "Une rame en bois de la Ligne 1 en 1900" },
+        { "Path": "assets/press/tgvTest.png", "credits": "© RATP – CC–BY 3.0", "description": "La station La Défense, terminus ouest de la Ligne 1" },
+        { "Path": "assets/press/tgvTest.png", "credits": "© RATP – CC–BY 3.0", "description": "Une rame MP 05 automatisée en station" },
+        { "Path": "assets/press/tgvTest.png", "credits": "© RATP – CC–BY 3.0", "description": "Portes palières installées lors de l’automatisation" }
+      ],
+      "sons": [
+        { "Path": "assets/content/images/RERTEST/sonTestRer.mp3", "credits": "© RATP – CC–BY 3.0", "description": "Annonce sonore en gare du Louvre – Rivoli" },
+        { "Path": "assets/content/images/RERTEST/sonTestRer.mp3", "credits": "© RATP – CC–BY 3.0", "description": "Annonce sonore en gare de La Défense" }
+      ],
+      "videos": [
+        { "Path": "m3q2q3668W4", "credits": "© INA / RATP – CC–BY 3.0", "description": "Reportage sur l’histoire de la Ligne 1" },
+        { "Path": "m3q2q3668W4", "credits": "© RATP – CC–BY 3.0", "description": "Présentation du chantier d’automatisation" }
+      ]
+    },
+    "Ligne C": { 
+      "ParagrHist": [
+        "title-Ligne C : la ligne patrimoniale et tentaculaire",
+        "La Ligne C est l’une des plus longues et ramifiées du réseau francilien. Mise en service en 1979, elle parcourt 162 km de voies, reliant Versailles, Saint–Quentin–en–Yvelines, Massy, Dourdan, Étampes, mais aussi Pontoise et Montigny, tout en traversant Paris par un axe majeur le long de la Seine. C’est une ligne au caractère unique, qui combine desserte de proximité, accès aux grands sites patrimoniaux de la capitale et liaisons régionales.",
+        "img-0",
+        "title-🏗️ Origines et conception (1950–1979)",
+        "L’idée d’un grand axe ferroviaire longeant la Seine naît dans les années 1950, dans le cadre des réflexions sur l’amélioration des liaisons banlieue–centre. L’objectif est de relier entre elles plusieurs anciennes lignes de banlieue de la SNCF en les unifiant grâce à un tunnel traversant Paris. La première étape est l’ouverture, en 1979, du tronçon Invalides – Gare d’Austerlitz, qui relie la ligne d’Austerlitz aux anciennes infrastructures de la ligne des Invalides. Ce chaînon manquant donne naissance à la Ligne C, conçue dès l’origine comme une ligne « omnibus » au service d’un large territoire francilien.",
+        "title-🚆 Déploiement et extensions (1980–1990)",
+        "Au fil des années 1980, la Ligne C s’étend progressivement. Elle intègre vers le sud les branches historiques menant à Massy, Dourdan et Étampes, et vers l’ouest celles de Versailles–Chantiers et de Saint–Quentin–en–Yvelines. Dans les années 1990, de nouvelles extensions sont réalisées vers le nord, notamment en direction de Pontoise, via l’intégration de l’ancienne ligne de la vallée de Montmorency. Ces prolongements font de la Ligne C la plus ramifiée du réseau, avec pas moins de 7 branches principales, ce qui constitue une force mais aussi une complexité d’exploitation inédite.",
+        "img-1",
+        "title-📈 Une ligne patrimoniale mais saturée (1990–2010)",
+        "Si la Ligne C joue un rôle essentiel pour de nombreux usagers, elle acquiert aussi une dimension touristique particulière. Traversant le cœur de Paris le long des quais de Seine, elle dessert directement les Invalides, le Champ–de–Mars – Tour Eiffel, le Musée d’Orsay et Saint–Michel – Notre–Dame. Elle est ainsi utilisée quotidiennement par les Franciliens, mais aussi par les touristes du monde entier. Cependant, son tracé sinueux, ses nombreux arrêts et la densité de ses branches en font une ligne plus lente que les autres RER. Elle subit régulièrement des retards et une saturation importante dans les années 2000, ce qui lui vaut une réputation parfois difficile auprès des voyageurs quotidiens.",
+        "img-2-3",
+        "title-🔁 Modernisation et requalification (2010–aujourd’hui)",
+        "Face aux critiques, un vaste programme de modernisation est engagé dans les années 2010. Les gares parisiennes emblématiques, comme Musée d’Orsay ou Saint–Michel, sont rénovées pour améliorer l’accessibilité. Le matériel roulant est progressivement remplacé par les rames Régio 2N et Z 57000, offrant plus de confort et une meilleure capacité. Des efforts importants sont réalisés pour fiabiliser la circulation et améliorer la ponctualité, malgré la complexité liée aux 7 branches. En parallèle, la Ligne C continue de mettre en avant son atout patrimonial, en valorisant son rôle de « ligne des musées » auprès des touristes.",
+        "img-0-0",
+        "title-🔍 Aujourd’hui",
+        "Aujourd’hui, la Ligne C transporte environ 540 000 voyageurs par jour et reste l’une des plus emblématiques du réseau Transilien. Elle incarne un paradoxe : à la fois ligne du quotidien pour des centaines de milliers de banlieusards et vitrine touristique pour les visiteurs de Paris. Ses défis restent nombreux, mais son importance stratégique et patrimoniale en font une ligne incontournable d’Île–de–France."
+      ],
+      "images": [
+        { "Path": "assets/press/tgvTest.png", "credits": "© RATP – CC–BY 3.0", "description": "Une rame en bois de la Ligne 1 en 1900" },
+        { "Path": "assets/press/tgvTest.png", "credits": "© RATP – CC–BY 3.0", "description": "La station La Défense, terminus ouest de la Ligne 1" },
+        { "Path": "assets/press/tgvTest.png", "credits": "© RATP – CC–BY 3.0", "description": "Une rame MP 05 automatisée en station" },
+        { "Path": "assets/press/tgvTest.png", "credits": "© RATP – CC–BY 3.0", "description": "Portes palières installées lors de l’automatisation" }
+      ],
+      "sons": [
+        { "Path": "assets/content/images/RERTEST/sonTestRer.mp3", "credits": "© RATP – CC–BY 3.0", "description": "Annonce sonore en gare du Louvre – Rivoli" },
+        { "Path": "assets/content/images/RERTEST/sonTestRer.mp3", "credits": "© RATP – CC–BY 3.0", "description": "Annonce sonore en gare de La Défense" }
+      ],
+      "videos": [
+        { "Path": "m3q2q3668W4", "credits": "© INA / RATP – CC–BY 3.0", "description": "Reportage sur l’histoire de la Ligne 1" },
+        { "Path": "m3q2q3668W4", "credits": "© RATP – CC–BY 3.0", "description": "Présentation du chantier d’automatisation" }
+      ]
+    },
+    "Ligne D": { 
+      "ParagrHist": [
+        "title-Ligne D : l’épine dorsale nord–sud",
+        "La Ligne D est l’une des plus longues et des plus fréquentées du réseau francilien, traversant la région du nord au sud sur près de 190 kilomètres. Mise en service en 1987, elle relie Creil, Orry–la–Ville et le nord francilien à Melun, Corbeil–Essonnes et Malesherbes au sud, en passant par le cœur de Paris. Avec environ 615 000 voyageurs quotidiens, elle incarne un axe structurant pour l’Île–de–France, bien qu’elle soit aussi connue pour ses difficultés d’exploitation.",
+        "img-0",
+        "title-🏗️ Origines et conception (1970–1987)",
+        "Dans les années 1970, les autorités franciliennes réfléchissent à une nouvelle ligne de RER permettant de désengorger les lignes A et B et d’offrir une liaison directe nord–sud. L’idée est de relier les réseaux existants de la SNCF, notamment au nord (Creil, Orry–la–Ville) et au sud (Melun, Corbeil, Malesherbes), grâce à un tunnel sous Paris. La première étape de ce projet se concrétise le 27 septembre 1987 avec l’ouverture du tronçon central entre Châtelet–les–Halles et Gare de Lyon, partagé avec la Ligne A. Ce chaînon manquant permet de donner naissance à la Ligne D.",
+        "title-🚆 Extensions et montée en puissance (1990–2000)",
+        "La Ligne D connaît rapidement un développement majeur. En 1995, le tunnel est prolongé jusqu’à Gare du Nord, offrant une liaison continue nord–sud. Cette extension permet de relier directement Creil et Orry–la–Ville au sud francilien, sans correspondance. La ligne dessert alors des territoires variés, allant des zones périurbaines du sud de l’Essonne aux zones industrielles et résidentielles du nord francilien. Elle devient un axe stratégique, mais sa complexité d’exploitation – avec de longues distances, de nombreuses branches et un tronc commun partagé avec d’autres RER – pose rapidement des difficultés de régularité.",
+        "img-1",
+        "title-📈 Défis et réputation difficile (2000–2010)",
+        "Au début des années 2000, la Ligne D se heurte à une forte croissance de la fréquentation et à des infrastructures saturées. Les retards, suppressions de trains et problèmes de fiabilité deviennent fréquents, donnant à la ligne une réputation de « mal–aimée » du réseau francilien. Des mesures sont prises pour améliorer la situation, comme la rénovation des trains Z 5600 et Z 20500, l’amélioration de la signalisation et l’augmentation des capacités. Toutefois, la longueur de la ligne (près de 190 km et 59 gares desservies) reste un défi unique en Europe, rendant l’exploitation particulièrement sensible aux aléas.",
+        "img-2-3",
+        "title-🔁 Modernisation et restructuration (2010–aujourd’hui)",
+        "Pour améliorer la régularité, un plan de restructuration est mis en œuvre à partir de 2019. La desserte est simplifiée au sud de Corbeil avec la création de la navette « Ligne D du Sud » (ligne RER D2), afin de limiter les interconnexions complexes. En parallèle, le matériel roulant est progressivement modernisé, en attendant l’arrivée du RER NG prévue pour remplacer les rames anciennes à partir de 2026. Les gares principales, comme Châtelet–les–Halles, Gare du Nord et Gare de Lyon, ont été rénovées pour mieux accueillir les flux considérables de passagers.",
+        "img-0-0",
+        "title-🔍 Aujourd’hui",
+        "Aujourd’hui, la Ligne D reste un axe vital pour la région parisienne, reliant des zones résidentielles, universitaires et économiques majeures. Malgré une réputation compliquée, elle demeure indispensable à des centaines de milliers de voyageurs quotidiens. Avec les modernisations en cours et l’arrivée du RER NG, son avenir s’annonce plus prometteur, même si elle restera toujours une ligne exigeante à exploiter en raison de son étendue exceptionnelle."
+      ],
+      "images": [
+        { "Path": "assets/press/tgvTest.png", "credits": "© RATP – CC–BY 3.0", "description": "Une rame en bois de la Ligne 1 en 1900" },
+        { "Path": "assets/press/tgvTest.png", "credits": "© RATP – CC–BY 3.0", "description": "La station La Défense, terminus ouest de la Ligne 1" },
+        { "Path": "assets/press/tgvTest.png", "credits": "© RATP – CC–BY 3.0", "description": "Une rame MP 05 automatisée en station" },
+        { "Path": "assets/press/tgvTest.png", "credits": "© RATP – CC–BY 3.0", "description": "Portes palières installées lors de l’automatisation" }
+      ],
+      "sons": [
+        { "Path": "assets/content/images/RERTEST/sonTestRer.mp3", "credits": "© RATP – CC–BY 3.0", "description": "Annonce sonore en gare du Louvre – Rivoli" },
+        { "Path": "assets/content/images/RERTEST/sonTestRer.mp3", "credits": "© RATP – CC–BY 3.0", "description": "Annonce sonore en gare de La Défense" }
+      ],
+      "videos": [
+        { "Path": "m3q2q3668W4", "credits": "© INA / RATP – CC–BY 3.0", "description": "Reportage sur l’histoire de la Ligne 1" },
+        { "Path": "m3q2q3668W4", "credits": "© RATP – CC–BY 3.0", "description": "Présentation du chantier d’automatisation" }
+      ]
+    },
+    "Ligne E": { 
+      "ParagrHist": [
+        "title-Ligne E : la plus jeune du réseau",
+        "La Ligne E est la dernière née des lignes de RER en Île–de–France. Mise en service en 1999, elle relie l’est parisien à Haussmann – Saint–Lazare via un tunnel moderne traversant le cœur de la capitale. Conçue pour désaturer les lignes A et B ainsi que les grandes gares de surface, elle s’inscrit comme un projet structurant et visionnaire. Bien que plus courte que les autres lignes RER à son lancement, elle connaît une expansion progressive et symbolise l’avenir du réseau avec son prolongement majeur vers l’ouest en cours.",
+        "img-0",
+        "title-🏗️ Origines et conception (1980–1999)",
+        "Dans les années 1980, la saturation croissante du RER A et des grandes gares parisiennes incite les pouvoirs publics à imaginer une nouvelle ligne traversant l’est parisien. Le projet, baptisé « EOLE » (Est–Ouest Liaison Express), vise à relier la gare Saint–Lazare à l’est francilien en passant par un tunnel dédié. Les travaux commencent en 1993 et mobilisent des techniques modernes, notamment pour la construction de la spectaculaire gare souterraine Haussmann – Saint–Lazare, située sous les grands magasins du boulevard Haussmann. Le 14 juillet 1999, la Ligne E est inaugurée entre Haussmann – Saint–Lazare et Chelles–Gournay / Villiers–sur–Marne, marquant la naissance officielle du cinquième RER.",
+        "title-🚆 Premières extensions et rôle régional (2000–2015)",
+        "Après son ouverture, la Ligne E est rapidement prolongée en 2003 vers Tournan, élargissant son bassin de desserte en Seine–et–Marne. Contrairement aux autres lignes, elle ne traverse pas Paris de part en part, mais joue un rôle complémentaire en renforçant la desserte de l’est francilien tout en soulageant les lignes A et B. Son matériel moderne, constitué de rames à deux niveaux MI2N spécifiques (Z 22500), offre confort et capacité, en accord avec l’image d’une ligne pensée pour le XXIe siècle. Toutefois, dès ses premières années, les débats se concentrent sur la nécessité de prolonger la ligne vers l’ouest afin de renforcer son utilité stratégique.",
+        "img-1",
+        "title-📈 Le projet EOLE prolongé vers l’ouest (2016–aujourd’hui)",
+        "Un tournant majeur est amorcé dans les années 2010 avec le lancement du chantier de prolongement vers l’ouest. Ce projet ambitieux prévoit d’étendre la Ligne E de Haussmann – Saint–Lazare à Mantes–la–Jolie, en passant par La Défense et Nanterre. Long de 55 kilomètres, ce prolongement transformera la Ligne E en une véritable colonne vertébrale est–ouest, allégeant la pression sur la Ligne A et offrant une alternative structurante. Le chantier, entamé en 2016, comprend la construction de nouvelles gares souterraines comme La Défense – Grande Arche et Nanterre–La Folie, ainsi que la modernisation des infrastructures existantes. Le déploiement progressif du nouveau matériel RER NG accompagne ce projet, garantissant davantage de confort, de fiabilité et de capacité.",
+        "img-2-3",
+        "title-🔁 Modernisation et perspectives",
+        "En parallèle du prolongement, la Ligne E bénéficie d’investissements importants pour améliorer son exploitation actuelle. Les gares existantes sont rénovées, les systèmes de signalisation modernisés, et l’offre de trains renforcée. L’arrivée du RER NG, avec ses aménagements intérieurs innovants (espaces lumineux, climatisation, portes larges), symbolise la volonté de proposer une expérience voyageur moderne et adaptée aux besoins des usagers du XXIe siècle. La Ligne E incarne ainsi l’alliance entre modernité technique et réponse aux défis de la mobilité urbaine contemporaine.",
+        "img-0-0",
+        "title-🔍 Aujourd’hui",
+        "Aujourd’hui, la Ligne E transporte environ 370 000 voyageurs par jour et reste au cœur des grands projets d’infrastructures franciliens. Son prolongement vers l’ouest, prévu pour être achevé dans la décennie 2020, la transformera en un axe majeur reliant Mantes–la–Jolie à l’est parisien en passant par le centre de la capitale et La Défense. Elle symbolise l’avenir du RER en Île–de–France : plus moderne, plus fiable et mieux adapté aux besoins d’une métropole mondiale."
+      ],
+      "images": [
+        { "Path": "assets/press/tgvTest.png", "credits": "© RATP – CC–BY 3.0", "description": "Une rame en bois de la Ligne 1 en 1900" },
+        { "Path": "assets/press/tgvTest.png", "credits": "© RATP – CC–BY 3.0", "description": "La station La Défense, terminus ouest de la Ligne 1" },
+        { "Path": "assets/press/tgvTest.png", "credits": "© RATP – CC–BY 3.0", "description": "Une rame MP 05 automatisée en station" },
+        { "Path": "assets/press/tgvTest.png", "credits": "© RATP – CC–BY 3.0", "description": "Portes palières installées lors de l’automatisation" }
+      ],
+      "sons": [
+        { "Path": "assets/content/images/RERTEST/sonTestRer.mp3", "credits": "© RATP – CC–BY 3.0", "description": "Annonce sonore en gare du Louvre – Rivoli" },
+        { "Path": "assets/content/images/RERTEST/sonTestRer.mp3", "credits": "© RATP – CC–BY 3.0", "description": "Annonce sonore en gare de La Défense" }
+      ],
+      "videos": [
+        { "Path": "m3q2q3668W4", "credits": "© INA / RATP – CC–BY 3.0", "description": "Reportage sur l’histoire de la Ligne 1" },
+        { "Path": "m3q2q3668W4", "credits": "© RATP – CC–BY 3.0", "description": "Présentation du chantier d’automatisation" }
+      ]
+    }
+  }
+]
+
+

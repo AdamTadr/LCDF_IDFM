@@ -1,0 +1,426 @@
+[
+    {
+  "Ligne T1": {
+    "ParagrHist": [
+      "title-Tram T1 : l’axe est–ouest de la Seine–Saint–Denis",
+      "Le Tram T1 relie Asnières – Gennevilliers à Noisy–le–Sec, traversant de nombreuses communes de la Seine–Saint–Denis. Mise en service en 1992, elle marque le renouveau du tramway à Paris après près de 50 ans d’absence dans la capitale. La ligne est conçue pour compléter le métro et le RER, offrir des correspondances efficaces et désaturer les axes routiers densément fréquentés. Elle transporte aujourd’hui environ 100 000 voyageurs par jour, jouant un rôle essentiel dans la mobilité quotidienne des Franciliens.",
+      "title-🏗️ Origines et conception (1980–1992)",
+      "Au début des années 1980, la saturation croissante des bus et des lignes de métro de la petite couronne pousse les autorités à réintroduire le tramway, moyen de transport efficace et peu polluant. Le projet T1 est alors lancé pour créer une ligne est–ouest entre Asnières et Noisy–le–Sec, avec un tracé empruntant des voies de surface et des axes routiers stratégiques. Les travaux débutent en 1987, incluant la création de stations modernes, accessibles et intégrées dans l’espace urbain. La ligne est inaugurée en 1992, offrant une alternative rapide et régulière aux déplacements routiers.",
+      "title-🚆 Extensions et modernisation (1992–2012)",
+      "Après son ouverture, le Tram T1 connaît plusieurs phases d’extension pour desservir de nouvelles zones résidentielles et industrielles. Des prolongements sont réalisés à l’ouest jusqu’à Asnières – Gennevilliers et à l’est vers Noisy–le–Sec, avec la mise en place de correspondances avec les lignes de métro 13, 7 et 5, ainsi que les gares RER. La ligne est modernisée avec des rames Citadis de nouvelle génération, offrant davantage de confort et de capacité, ainsi que des systèmes de signalisation et de priorité aux carrefours pour améliorer la régularité et la sécurité.",
+      "title-📈 Adaptation aux flux et intégration urbaine (2012–aujourd’hui)",
+      "Aujourd’hui, le Tram T1 est une ligne structurante pour la Seine–Saint–Denis et le nord–est de la petite couronne. Les stations ont été rénovées, les rames modernisées et la fréquence renforcée pour répondre à l’accroissement de la demande. La ligne est parfaitement intégrée dans le tissu urbain, avec des aménagements piétons et cyclables, et elle contribue à l’amélioration de la qualité de l’air et à la fluidité des déplacements. Le T1 illustre la renaissance du tramway comme moyen de transport urbain moderne, écologique et efficace.",
+      "title-🔍 Aujourd’hui",
+      "La Tram T1 transporte chaque jour près de 100 000 voyageurs et joue un rôle essentiel dans les déplacements quotidiens des habitants de la Seine–Saint–Denis et des Hauts–de–Seine. Son tracé, ses correspondances et sa fréquence en font une alternative crédible au transport automobile, tout en participant à la transition écologique et à la redynamisation des espaces urbains traversés."
+    ],
+    "images": [
+        { "Path": "assets/press/tgvTest.png", "credits": "© RATP – CC–BY 3.0", "description": "Une rame en bois de la Ligne 1 en 1900" },
+        { "Path": "assets/press/tgvTest.png", "credits": "© RATP – CC–BY 3.0", "description": "La station La Défense, terminus ouest de la Ligne 1" },
+        { "Path": "assets/press/tgvTest.png", "credits": "© RATP – CC–BY 3.0", "description": "Une rame MP 05 automatisée en station" },
+        { "Path": "assets/press/tgvTest.png", "credits": "© RATP – CC–BY 3.0", "description": "Portes palières installées lors de l’automatisation" }
+      ],
+      "sons": [
+        { "Path": "assets/content/images/RERTEST/sonTestRer.mp3", "credits": "© RATP – CC–BY 3.0", "description": "Annonce sonore en gare du Louvre – Rivoli" },
+        { "Path": "assets/content/images/RERTEST/sonTestRer.mp3", "credits": "© RATP – CC–BY 3.0", "description": "Annonce sonore en gare de La Défense" }
+      ],
+      "videos": [
+        { "Path": "m3q2q3668W4", "credits": "© INA / RATP – CC–BY 3.0", "description": "Reportage sur l’histoire de la Ligne 1" },
+        { "Path": "m3q2q3668W4", "credits": "© RATP – CC–BY 3.0", "description": "Présentation du chantier d’automatisation" }
+      ]
+  },
+  "Ligne T2": {
+    "ParagrHist": [
+      "title-Tram T2 : l’axe nord–ouest de la métropole",
+      "Le Tram T2 relie Pont de Bezons à Porte de Versailles, traversant la boucle nord–ouest de Paris et desservant de nombreuses communes importantes comme La Défense, Colombes et Issy–les–Moulineaux. Mise en service en 1997, elle fait partie des premières lignes de tramway réintroduites dans la région parisienne après plusieurs décennies d’absence. La ligne joue un rôle structurant en reliant des zones d’affaires, des quartiers résidentiels et des pôles de transport multimodaux, transportant environ 100 000 voyageurs par jour.",
+      "title-🏗️ Origines et conception (1985–1997)",
+      "Face à la croissance démographique et au développement du quartier d’affaires de La Défense, la nécessité d’une liaison efficace entre le nord–ouest de Paris et le sud de la boucle était évidente. Le projet T2 est lancé dans les années 1980 pour créer une ligne de tramway moderne sur des voies en surface. Les travaux, commencés en 1993, incluent la mise en place de stations accessibles, des aménagements sécurisés pour les piétons et la signalisation automatique aux carrefours. La ligne est inaugurée en 1997, offrant une alternative rapide aux axes routiers saturés et facilitant l’accès aux grandes zones d’emploi.",
+      "title-🚆 Extensions et modernisation (1997–2010)",
+      "Après l’ouverture initiale, la ligne T2 connaît plusieurs extensions et modernisations. Elle est prolongée vers Pont de Bezons et la Porte de Versailles, créant des correspondances avec le RER A, la Ligne 1 du métro et les lignes de bus principales. La modernisation des rames Citadis permet d’augmenter la capacité, le confort et la régularité, tandis que des travaux de priorité aux carrefours réduisent les temps de trajet. Ces améliorations renforcent le rôle de T2 comme colonne vertébrale de la mobilité dans le nord–ouest francilien.",
+      "title-📈 Adaptation aux flux et intégration urbaine (2010–aujourd’hui)",
+      "Aujourd’hui, le Tram T2 est pleinement intégré dans le réseau de transports de la métropole parisienne. Les stations sont accessibles, sécurisées et équipées de systèmes d’information voyageurs modernes. La fréquence est renforcée aux heures de pointe pour répondre à la demande croissante, notamment à La Défense et à Issy–les–Moulineaux. La ligne contribue également à la réduction de la circulation automobile et à l’amélioration de la qualité de l’air, tout en connectant des pôles économiques, résidentiels et culturels essentiels.",
+      "title-🔍 Aujourd’hui",
+      "Le Tram T2 transporte environ 100 000 voyageurs par jour et reste une ligne stratégique pour la mobilité dans l’ouest parisien. Elle illustre parfaitement la renaissance du tramway à Paris et la combinaison réussie entre modernité, efficacité et intégration urbaine."
+    ],
+    "images": [
+        { "Path": "assets/press/tgvTest.png", "credits": "© RATP – CC–BY 3.0", "description": "Une rame en bois de la Ligne 1 en 1900" },
+        { "Path": "assets/press/tgvTest.png", "credits": "© RATP – CC–BY 3.0", "description": "La station La Défense, terminus ouest de la Ligne 1" },
+        { "Path": "assets/press/tgvTest.png", "credits": "© RATP – CC–BY 3.0", "description": "Une rame MP 05 automatisée en station" },
+        { "Path": "assets/press/tgvTest.png", "credits": "© RATP – CC–BY 3.0", "description": "Portes palières installées lors de l’automatisation" }
+      ],
+      "sons": [
+        { "Path": "assets/content/images/RERTEST/sonTestRer.mp3", "credits": "© RATP – CC–BY 3.0", "description": "Annonce sonore en gare du Louvre – Rivoli" },
+        { "Path": "assets/content/images/RERTEST/sonTestRer.mp3", "credits": "© RATP – CC–BY 3.0", "description": "Annonce sonore en gare de La Défense" }
+      ],
+      "videos": [
+        { "Path": "m3q2q3668W4", "credits": "© INA / RATP – CC–BY 3.0", "description": "Reportage sur l’histoire de la Ligne 1" },
+        { "Path": "m3q2q3668W4", "credits": "© RATP – CC–BY 3.0", "description": "Présentation du chantier d’automatisation" }
+      ]
+  },
+  "Ligne T3a": {
+    "ParagrHist": [
+      "title-Ligne T3a : le tram circulaire du sud et de l’est parisien",
+      "La Ligne T3a est la première phase du tramway circulaire parisien le long du boulevard périphérique intérieur, reliant Pont du Garigliano à Porte de Vincennes. Mise en service en 2006, elle constitue un véritable axe structurant pour la capitale, offrant une alternative aux lignes de bus saturées et aux déplacements automobiles dans le sud et l’est de Paris. La ligne dessert de nombreux arrondissements densément peuplés, facilitant les correspondances avec le métro et les RER, et transporte aujourd’hui environ 120 000 voyageurs par jour.",
+      "title-🏗️ Origines et conception (1990–2006)",
+      "Le projet du tram circulaire T3 remonte aux années 1990, dans le cadre du plan de réintroduction du tramway en Île–de–France et de la volonté de désengorger le centre de Paris. Les ingénieurs décident de créer un axe circulaire le long du boulevard des Maréchaux pour relier les quartiers périphériques sans passer par le centre historique. Les travaux commencent en 2003, incluant la création de stations modernes, accessibles et intégrées dans l’espace urbain, ainsi que l’installation de rames Citadis sur des voies en surface avec priorité aux carrefours.",
+      "title-🚆 Mise en service et premiers succès (2006–2010)",
+      "La Ligne T3a est inaugurée le 16 décembre 2006, avec une fréquentation immédiate supérieure aux prévisions. Les voyageurs apprécient la rapidité et la régularité du tram, qui dessert des pôles stratégiques comme la Porte de Versailles, la Porte de Vanves et la Porte de Vincennes. Les correspondances avec les lignes de métro 8, 9 et 10 ainsi qu’avec le RER C permettent de fluidifier les déplacements et d’intégrer pleinement T3a dans le réseau francilien.",
+      "title-📈 Extensions et amélioration du service (2010–2018)",
+      "Au fil des années, la Ligne T3a connaît des améliorations continues : augmentation de la fréquence, modernisation des rames et des stations, amélioration de l’information voyageurs et renforcement de la priorité aux carrefours. Ces travaux permettent d’accueillir plus de voyageurs et de rendre le trajet plus confortable et rapide. L’expérience acquise sur T3a sert de base pour la planification et la construction de T3b, la seconde phase du tram circulaire.",
+      "title-🔁 Prolongement vers le nord–ouest (2018–aujourd’hui)",
+      "Le 24 novembre 2018, la Ligne T3b est inaugurée, prolongeant le tram de Porte d’Ivry à Porte de la Chapelle, formant un cercle quasi complet autour de Paris. La T3a conserve sa section sud–est mais bénéficie de correspondances supplémentaires avec T3b. Les rames modernisées, les stations rénovées et les améliorations de la fréquence permettent d’absorber la forte demande quotidienne, tout en renforçant l’accessibilité et la sécurité.",
+      "title-🔍 Aujourd’hui",
+      "Aujourd’hui, la Ligne T3a transporte plus de 120 000 voyageurs par jour. Elle constitue un axe structurant de la mobilité parisienne périphérique, offrant un service régulier, confortable et parfaitement intégré avec le métro, le RER et les autres lignes de tramway. La T3a illustre le succès de la renaissance du tramway à Paris et son rôle essentiel dans la mobilité urbaine durable."
+    ],
+    "images": [
+        { "Path": "assets/press/tgvTest.png", "credits": "© RATP – CC–BY 3.0", "description": "Une rame en bois de la Ligne 1 en 1900" },
+        { "Path": "assets/press/tgvTest.png", "credits": "© RATP – CC–BY 3.0", "description": "La station La Défense, terminus ouest de la Ligne 1" },
+        { "Path": "assets/press/tgvTest.png", "credits": "© RATP – CC–BY 3.0", "description": "Une rame MP 05 automatisée en station" },
+        { "Path": "assets/press/tgvTest.png", "credits": "© RATP – CC–BY 3.0", "description": "Portes palières installées lors de l’automatisation" }
+      ],
+      "sons": [
+        { "Path": "assets/content/images/RERTEST/sonTestRer.mp3", "credits": "© RATP – CC–BY 3.0", "description": "Annonce sonore en gare du Louvre – Rivoli" },
+        { "Path": "assets/content/images/RERTEST/sonTestRer.mp3", "credits": "© RATP – CC–BY 3.0", "description": "Annonce sonore en gare de La Défense" }
+      ],
+      "videos": [
+        { "Path": "m3q2q3668W4", "credits": "© INA / RATP – CC–BY 3.0", "description": "Reportage sur l’histoire de la Ligne 1" },
+        { "Path": "m3q2q3668W4", "credits": "© RATP – CC–BY 3.0", "description": "Présentation du chantier d’automatisation" }
+      ]
+  },
+  "Ligne T3b": {
+    "ParagrHist": [
+      "title-Ligne T3b : le prolongement nord–ouest du tram circulaire",
+      "La Ligne T3b prolonge le tram circulaire de Paris au nord–ouest, reliant Porte d’Ivry à Porte de la Chapelle. Mise en service en novembre 2018, elle complète le cercle commencé par la T3a, permettant aux voyageurs de parcourir une quasi–boucle autour de Paris sans pénétrer dans le centre historique. Cette ligne dessert de nombreux arrondissements périphériques, des zones résidentielles, commerciales et universitaires, et joue un rôle majeur dans la réduction de la congestion automobile et la fluidité des transports en commun autour de la capitale.",
+      "title-🏗️ Origines et conception (2008–2018)",
+      "Dès 2008, dans le cadre de l’extension du tram circulaire, le projet T3b est lancé pour compléter la boucle autour de Paris. L’objectif est de relier la Porte d’Ivry à la Porte de la Chapelle, en desservant les arrondissements nord et nord–ouest. Les travaux incluent la construction de stations modernes, accessibles et intégrées dans l’espace urbain, l’aménagement de voies réservées et la mise en place de systèmes de priorité aux carrefours pour garantir la régularité des rames. La ligne est conçue pour fonctionner en parfaite continuité avec T3a.",
+      "title-🚆 Mise en service et premiers services (2018–2019)",
+      "La Ligne T3b est inaugurée le 24 novembre 2018, avec des rames Citadis modernisées offrant confort, climatisation et espaces accessibles. Les correspondances avec T3a, le métro (lignes 3, 7, 12 et 13) et plusieurs lignes de bus permettent une fluidité totale des déplacements. Dès les premières semaines, la fréquentation dépasse les attentes, montrant l’importance de cette liaison pour les trajets périphériques et pour la desserte de quartiers en forte croissance démographique et économique.",
+      "title-📈 Adaptations et modernisation continue (2019–aujourd’hui)",
+      "Depuis sa mise en service, la T3b bénéficie d’améliorations constantes : augmentation de la fréquence aux heures de pointe, modernisation des stations avec signalétique et informations voyageurs numériques, sécurisation des passages piétons et création de nouveaux aménagements pour les cyclistes. Ces efforts garantissent la régularité et le confort des trajets, tout en répondant à la croissance continue de la demande. T3b complète la boucle du tram circulaire, offrant désormais une liaison cohérente et continue autour de Paris.",
+      "title-🔍 Aujourd’hui",
+      "Aujourd’hui, la Ligne T3b transporte environ 130 000 voyageurs par jour. Elle constitue un axe structurant essentiel pour la mobilité périphérique de Paris, connectant efficacement les arrondissements nord et nord–ouest, tout en s’intégrant parfaitement avec T3a et les autres réseaux de transport. T3b illustre le succès de la renaissance du tramway parisien et son rôle dans une mobilité urbaine durable et moderne."
+    ],
+    "images": [
+        { "Path": "assets/press/tgvTest.png", "credits": "© RATP – CC–BY 3.0", "description": "Une rame en bois de la Ligne 1 en 1900" },
+        { "Path": "assets/press/tgvTest.png", "credits": "© RATP – CC–BY 3.0", "description": "La station La Défense, terminus ouest de la Ligne 1" },
+        { "Path": "assets/press/tgvTest.png", "credits": "© RATP – CC–BY 3.0", "description": "Une rame MP 05 automatisée en station" },
+        { "Path": "assets/press/tgvTest.png", "credits": "© RATP – CC–BY 3.0", "description": "Portes palières installées lors de l’automatisation" }
+      ],
+      "sons": [
+        { "Path": "assets/content/images/RERTEST/sonTestRer.mp3", "credits": "© RATP – CC–BY 3.0", "description": "Annonce sonore en gare du Louvre – Rivoli" },
+        { "Path": "assets/content/images/RERTEST/sonTestRer.mp3", "credits": "© RATP – CC–BY 3.0", "description": "Annonce sonore en gare de La Défense" }
+      ],
+      "videos": [
+        { "Path": "m3q2q3668W4", "credits": "© INA / RATP – CC–BY 3.0", "description": "Reportage sur l’histoire de la Ligne 1" },
+        { "Path": "m3q2q3668W4", "credits": "© RATP – CC–BY 3.0", "description": "Présentation du chantier d’automatisation" }
+      ]
+  },
+  "Ligne T4": {
+    "ParagrHist": [
+      "title-Ligne T4 : le tram–train de la Seine–Saint–Denis",
+      "La Ligne T4 est unique dans le réseau francilien car elle fonctionne comme un tram–train, reliant Aulnay–sous–Bois à Bondy sur une ancienne ligne de chemin de fer de banlieue. Mise en service en 2006, elle dessert principalement le département de la Seine–Saint–Denis, permettant de relier les quartiers périphériques de manière rapide et régulière. Avec environ 45 000 voyageurs par jour, elle constitue un axe stratégique pour la mobilité dans le nord–est de l’Île–de–France, notamment pour les trajets domicile–travail et les correspondances avec le RER B et E.",
+      "title-🏗️ Origines et conception (1990–2006)",
+      "La Ligne T4 est née de la volonté de réutiliser les anciennes lignes ferroviaires de banlieue pour créer un service moderne de tram–train. Le projet vise à combler le manque de liaisons rapides dans le nord–est francilien, tout en réduisant la saturation des axes routiers et des lignes de bus. Les travaux débutent au début des années 2000, incluant la modernisation des voies, l’aménagement de stations sécurisées et accessibles, et l’introduction de rames adaptées au tram–train, capables de circuler à la fois sur voies ferrées classiques et sur tronçons urbains.",
+      "title-🚆 Mise en service et premiers services (2006–2010)",
+      "Le 18 novembre 2006, la Ligne T4 est inaugurée entre Aulnay–sous–Bois et Bondy. Dès sa mise en service, elle rencontre un succès important auprès des habitants, offrant une liaison rapide et régulière avec le RER B et le RER E. Les rames Alstom Citadis Dualis sont utilisées, adaptées à la fois à la circulation urbaine et aux lignes ferroviaires existantes, offrant confort et capacité pour les usagers.",
+      "title-📈 Améliorations et modernisation (2010–aujourd’hui)",
+      "Depuis 2010, la Ligne T4 bénéficie d’investissements continus pour améliorer la sécurité, la ponctualité et le confort. Les stations sont modernisées avec des informations voyageurs numériques, la fréquence est augmentée aux heures de pointe, et des travaux sur les voies permettent d’améliorer la vitesse commerciale. La ligne est également préparée pour accueillir de nouvelles rames plus modernes, renforçant la capacité et le confort des trajets pour ses usagers quotidiens.",
+      "title-🔍 Aujourd’hui",
+      "Aujourd’hui, la Ligne T4 transporte environ 45 000 voyageurs par jour. Elle est indispensable pour les déplacements périphériques dans la Seine–Saint–Denis, offrant un service fiable et régulier, et illustrant l’efficacité du concept tram–train dans la mobilité urbaine et périurbaine de l’Île–de–France."
+    ],
+    "images": [
+        { "Path": "assets/press/tgvTest.png", "credits": "© RATP – CC–BY 3.0", "description": "Une rame en bois de la Ligne 1 en 1900" },
+        { "Path": "assets/press/tgvTest.png", "credits": "© RATP – CC–BY 3.0", "description": "La station La Défense, terminus ouest de la Ligne 1" },
+        { "Path": "assets/press/tgvTest.png", "credits": "© RATP – CC–BY 3.0", "description": "Une rame MP 05 automatisée en station" },
+        { "Path": "assets/press/tgvTest.png", "credits": "© RATP – CC–BY 3.0", "description": "Portes palières installées lors de l’automatisation" }
+      ],
+      "sons": [
+        { "Path": "assets/content/images/RERTEST/sonTestRer.mp3", "credits": "© RATP – CC–BY 3.0", "description": "Annonce sonore en gare du Louvre – Rivoli" },
+        { "Path": "assets/content/images/RERTEST/sonTestRer.mp3", "credits": "© RATP – CC–BY 3.0", "description": "Annonce sonore en gare de La Défense" }
+      ],
+      "videos": [
+        { "Path": "m3q2q3668W4", "credits": "© INA / RATP – CC–BY 3.0", "description": "Reportage sur l’histoire de la Ligne 1" },
+        { "Path": "m3q2q3668W4", "credits": "© RATP – CC–BY 3.0", "description": "Présentation du chantier d’automatisation" }
+      ]
+  },
+  "Ligne T5": {
+    "ParagrHist": [
+      "title-Ligne T5 : le tram du nord–est francilien",
+      "La Ligne T5 relie Saint–Denis – Porte de Paris à Garges – Sarcelles, dans le Val–d’Oise et la Seine–Saint–Denis. Mise en service en 2013, elle constitue un axe structurant pour les déplacements périphériques, notamment dans des zones densément peuplées et sous–desservies par le métro et le RER. Avec plus de 55 000 voyageurs par jour, elle joue un rôle clé pour désengorger les transports routiers et améliorer l’accessibilité aux zones industrielles, résidentielles et commerciales du nord–est parisien.",
+      "title-🏗️ Origines et conception (2000–2013)",
+      "Le projet de la Ligne T5 remonte au début des années 2000, dans le cadre du Plan Tramway francilien visant à renforcer la desserte périphérique de la région parisienne. La ligne utilise en partie l’ancienne voie ferrée du tram–train Saint–Denis – Garges, modernisée et adaptée aux standards contemporains. Les travaux comprennent la création de stations accessibles, l’aménagement de voies réservées, et l’installation de systèmes de priorité aux carrefours pour garantir la régularité des rames. L’objectif était de relier efficacement les quartiers densément peuplés aux lignes RER et de faciliter les déplacements domicile–travail.",
+      "title-🚆 Mise en service et premiers services (2013–2015)",
+      "La Ligne T5 est inaugurée le 29 juillet 2013. Les rames Citadis Dualis assurent des trajets réguliers et confortables entre les terminus, avec correspondances directes vers la ligne T1, le RER D et plusieurs lignes de bus. Dès les premières semaines, la fréquentation dépasse les prévisions, montrant l’importance de cette liaison pour les usagers du quotidien et la desserte des zones densément peuplées de Saint–Denis, Pierrefitte–sur–Seine et Sarcelles.",
+      "title-📈 Adaptations et modernisation continue (2015–aujourd’hui)",
+      "Depuis sa mise en service, la Ligne T5 bénéficie d’améliorations constantes : augmentation de la fréquence aux heures de pointe, modernisation des stations avec signalétique numérique, sécurisation des passages piétons et création d’aménagements pour les cyclistes. Ces améliorations garantissent la régularité et le confort des trajets tout en répondant à la croissance continue de la demande. La ligne T5 contribue désormais à fluidifier la mobilité dans le nord–est francilien et à réduire la congestion des axes routiers.",
+      "title-🔍 Aujourd’hui",
+      "Aujourd’hui, la Ligne T5 transporte environ 55 000 voyageurs par jour. Elle constitue un axe structurant du réseau de tramways francilien, reliant efficacement les communes du nord–est parisien et facilitant l’accès aux lignes RER et aux transports urbains. La Ligne T5 illustre l’efficacité et le succès du tramway moderne dans la mobilité urbaine périphérique."
+    ],
+    "images": [
+        { "Path": "assets/press/tgvTest.png", "credits": "© RATP – CC–BY 3.0", "description": "Une rame en bois de la Ligne 1 en 1900" },
+        { "Path": "assets/press/tgvTest.png", "credits": "© RATP – CC–BY 3.0", "description": "La station La Défense, terminus ouest de la Ligne 1" },
+        { "Path": "assets/press/tgvTest.png", "credits": "© RATP – CC–BY 3.0", "description": "Une rame MP 05 automatisée en station" },
+        { "Path": "assets/press/tgvTest.png", "credits": "© RATP – CC–BY 3.0", "description": "Portes palières installées lors de l’automatisation" }
+      ],
+      "sons": [
+        { "Path": "assets/content/images/RERTEST/sonTestRer.mp3", "credits": "© RATP – CC–BY 3.0", "description": "Annonce sonore en gare du Louvre – Rivoli" },
+        { "Path": "assets/content/images/RERTEST/sonTestRer.mp3", "credits": "© RATP – CC–BY 3.0", "description": "Annonce sonore en gare de La Défense" }
+      ],
+      "videos": [
+        { "Path": "m3q2q3668W4", "credits": "© INA / RATP – CC–BY 3.0", "description": "Reportage sur l’histoire de la Ligne 1" },
+        { "Path": "m3q2q3668W4", "credits": "© RATP – CC–BY 3.0", "description": "Présentation du chantier d’automatisation" }
+      ]
+  },
+  "Ligne T6": {
+    "ParagrHist": [
+      "title-Ligne T6 : le tramway du sud francilien",
+      "La Ligne T6 relie Châtillon – Montrouge à Viroflay, desservant le sud–ouest de l’Île–de–France. Mise en service en 2016, elle constitue un axe majeur pour les déplacements locaux, connectant des communes comme Clamart, Meudon et Chaville aux transports en commun existants, notamment la ligne 13 du métro et la gare de Viroflay Rive Gauche. Avec environ 40 000 voyageurs par jour, elle facilite la mobilité dans une zone périurbaine densément peuplée, tout en améliorant la sécurité et l’efficacité des trajets par rapport aux lignes de bus classiques.",
+      "title-🏗️ Origines et conception (2005–2016)",
+      "Le projet de la Ligne T6 remonte au milieu des années 2000, dans le cadre du Plan Tramway francilien visant à créer de nouvelles liaisons périphériques et à améliorer la desserte des zones suburbaines. L’idée était de remplacer des lignes de bus saturées par un tramway moderne, rapide et régulier, capable de circuler sur des voies dédiées. Les travaux incluent la création de stations accessibles, l’aménagement de nouvelles voies, et la mise en place d’une signalisation prioritaire aux carrefours pour garantir la ponctualité des rames. L’objectif était également de favoriser l’intermodalité avec le métro et le réseau ferroviaire régional.",
+      "title-🚆 Mise en service et premiers services (2016–2018)",
+      "La Ligne T6 est inaugurée le 13 décembre 2016. Les rames utilisées sont des Alstom Citadis équipées de bogies spécifiques pour circuler sur un profil de voie sinueux et vallonné, adapté aux reliefs du sud francilien. Dès les premières semaines, la ligne séduit les habitants par sa régularité et son confort, offrant une alternative rapide aux lignes de bus saturées. Les correspondances avec le métro ligne 13 et la gare RER de Viroflay permettent un accès fluide aux grands axes de la région.",
+      "title-📈 Améliorations et modernisation continue (2018–aujourd’hui)",
+      "Depuis sa mise en service, la Ligne T6 bénéficie d’améliorations continues : optimisation des horaires, augmentation de la fréquence aux heures de pointe, modernisation des stations avec informations numériques, et sécurisation des passages piétons. Des travaux d’entretien réguliers assurent la fiabilité du service, tandis que des projets futurs prévoient l’adaptation de certaines stations pour accueillir des rames plus longues et offrir davantage de capacité aux usagers.",
+      "title-🔍 Aujourd’hui",
+      "Aujourd’hui, la Ligne T6 transporte environ 40 000 voyageurs par jour. Elle est devenue un axe structurant pour les communes desservies, facilitant la mobilité quotidienne, réduisant la congestion routière et favorisant l’intermodalité avec les autres lignes de transport en commun. La Ligne T6 illustre parfaitement le rôle du tramway moderne dans la mobilité périurbaine francilienne."
+    ],
+   "images": [
+        { "Path": "assets/press/tgvTest.png", "credits": "© RATP – CC–BY 3.0", "description": "Une rame en bois de la Ligne 1 en 1900" },
+        { "Path": "assets/press/tgvTest.png", "credits": "© RATP – CC–BY 3.0", "description": "La station La Défense, terminus ouest de la Ligne 1" },
+        { "Path": "assets/press/tgvTest.png", "credits": "© RATP – CC–BY 3.0", "description": "Une rame MP 05 automatisée en station" },
+        { "Path": "assets/press/tgvTest.png", "credits": "© RATP – CC–BY 3.0", "description": "Portes palières installées lors de l’automatisation" }
+      ],
+      "sons": [
+        { "Path": "assets/content/images/RERTEST/sonTestRer.mp3", "credits": "© RATP – CC–BY 3.0", "description": "Annonce sonore en gare du Louvre – Rivoli" },
+        { "Path": "assets/content/images/RERTEST/sonTestRer.mp3", "credits": "© RATP – CC–BY 3.0", "description": "Annonce sonore en gare de La Défense" }
+      ],
+      "videos": [
+        { "Path": "m3q2q3668W4", "credits": "© INA / RATP – CC–BY 3.0", "description": "Reportage sur l’histoire de la Ligne 1" },
+        { "Path": "m3q2q3668W4", "credits": "© RATP – CC–BY 3.0", "description": "Présentation du chantier d’automatisation" }
+      ]
+  },
+  "Ligne T7": {
+    "ParagrHist": [
+      "title-Ligne T7 : le tram du sud–est francilien",
+      "La Ligne T7 relie Villejuif – Louis Aragon à Athis–Mons – Juvisy via Orly. Mise en service en 2013, cette ligne dessert des communes du sud–est francilien et facilite l’accès aux pôles économiques et universitaires situés autour de Villejuif et de l’aéroport d’Orly. Avec environ 25 000 voyageurs par jour, la ligne joue un rôle essentiel pour désengorger les lignes de bus saturées et améliorer la mobilité locale dans des zones densément peuplées et sous–desservies par le métro et le RER.",
+      "title-🏗️ Origines et conception (2005–2013)",
+      "Le projet de la Ligne T7 a été conçu dans le cadre du Plan Tramway francilien visant à créer des liaisons périphériques modernes et efficaces. L’objectif principal était de relier Villejuif – Louis Aragon, déjà desservi par la ligne 7 du métro, à Juvisy, un important nœud ferroviaire du sud francilien. Les travaux ont inclus la création de stations accessibles, l’aménagement de voies réservées pour le tramway, et l’installation de systèmes de priorité aux feux pour garantir la régularité. La ligne devait également favoriser l’intermodalité avec le métro et le RER C.",
+      "title-🚆 Mise en service et premiers services (2013–2015)",
+      "La Ligne T7 est inaugurée le 16 novembre 2013. Les rames Alstom Citadis assurent des trajets fréquents et confortables, avec des correspondances directes vers la ligne 7 du métro à Villejuif et vers le RER C à Juvisy. La ligne a rapidement rencontré un succès auprès des habitants, offrant un service régulier et rapide, et améliorant considérablement l’accessibilité aux zones urbaines et périurbaines du sud–est parisien.",
+      "title-📈 Améliorations et modernisation continue (2015–aujourd’hui)",
+      "Depuis sa mise en service, la Ligne T7 bénéficie d’améliorations constantes : optimisation des horaires et augmentation de la fréquence aux heures de pointe, modernisation des stations avec signalétique numérique et sécurisation des passages piétons. Des travaux d’entretien réguliers assurent la fiabilité du service, tandis que des projets futurs prévoient l’adaptation de certaines stations pour accueillir des rames plus longues et offrir davantage de capacité aux usagers.",
+      "title-🔍 Aujourd’hui",
+      "Aujourd’hui, la Ligne T7 transporte environ 25 000 voyageurs par jour. Elle constitue un axe structurant du sud–est francilien, améliorant la mobilité quotidienne, réduisant la congestion routière et favorisant l’intermodalité avec le métro et le RER. La Ligne T7 illustre le rôle clé du tramway moderne dans la mobilité urbaine périphérique et la fluidification des déplacements dans des zones densément peuplées."
+    ],
+   "images": [
+        { "Path": "assets/press/tgvTest.png", "credits": "© RATP – CC–BY 3.0", "description": "Une rame en bois de la Ligne 1 en 1900" },
+        { "Path": "assets/press/tgvTest.png", "credits": "© RATP – CC–BY 3.0", "description": "La station La Défense, terminus ouest de la Ligne 1" },
+        { "Path": "assets/press/tgvTest.png", "credits": "© RATP – CC–BY 3.0", "description": "Une rame MP 05 automatisée en station" },
+        { "Path": "assets/press/tgvTest.png", "credits": "© RATP – CC–BY 3.0", "description": "Portes palières installées lors de l’automatisation" }
+      ],
+      "sons": [
+        { "Path": "assets/content/images/RERTEST/sonTestRer.mp3", "credits": "© RATP – CC–BY 3.0", "description": "Annonce sonore en gare du Louvre – Rivoli" },
+        { "Path": "assets/content/images/RERTEST/sonTestRer.mp3", "credits": "© RATP – CC–BY 3.0", "description": "Annonce sonore en gare de La Défense" }
+      ],
+      "videos": [
+        { "Path": "m3q2q3668W4", "credits": "© INA / RATP – CC–BY 3.0", "description": "Reportage sur l’histoire de la Ligne 1" },
+        { "Path": "m3q2q3668W4", "credits": "© RATP – CC–BY 3.0", "description": "Présentation du chantier d’automatisation" }
+      ]
+  },
+  "Ligne T8": {
+    "ParagrHist": [
+      "title-Ligne T8 : le tram du nord francilien",
+      "La Ligne T8 relie Saint–Denis – Porte de Paris à Épinay–sur–Seine / Villetaneuse, desservant le nord de la petite couronne parisienne. Mise en service en 2014, elle constitue un axe essentiel pour la mobilité locale, offrant des correspondances avec le RER D, le tram T1 et plusieurs lignes de bus. Avec environ 40 000 voyageurs par jour, la Ligne T8 améliore considérablement l’accès aux pôles d’activité, aux établissements scolaires et aux zones résidentielles de la région nord francilienne, tout en réduisant la saturation des lignes de bus traditionnelles.",
+      "title-🏗️ Origines et conception (2006–2014)",
+      "Le projet de la Ligne T8 est conçu dans le cadre du Plan Tramway francilien afin de créer une liaison rapide et régulière dans le nord de l’Île–de–France. L’objectif principal était de relier Saint–Denis, important nœud ferroviaire et pôle économique, aux communes de Villetaneuse et Épinay–sur–Seine. Les travaux ont inclus la construction de nouvelles voies sur un tracé partiellement en site propre, la création de stations accessibles et la mise en place de feux prioritaires pour les rames. La ligne devait également faciliter l’intermodalité avec le RER D et le tram T1.",
+      "title-🚆 Mise en service et premiers services (2014–2016)",
+      "La Ligne T8 est inaugurée le 16 décembre 2014. Les rames Alstom Citadis circulent sur un parcours de 8,5 km, avec des arrêts toutes les 400 à 500 mètres environ. Les usagers bénéficient d’un service régulier, d’une interconnexion fluide avec le RER D à Saint–Denis et de correspondances avec le tram T1. Dès les premières semaines, la ligne rencontre un succès significatif, facilitant les déplacements quotidiens et réduisant la congestion sur les lignes de bus traditionnelles.",
+      "title-📈 Améliorations et modernisation continue (2016–aujourd’hui)",
+      "Depuis sa mise en service, la Ligne T8 a été modernisée et optimisée pour mieux répondre aux besoins des voyageurs. Les horaires sont ajustés pour améliorer la fréquence aux heures de pointe, les stations ont été modernisées avec signalétique et équipements accessibles, et la régularité du service est renforcée grâce à la priorité aux feux et à l’entretien régulier des rames. Des projets futurs incluent l’extension possible vers des zones résidentielles en périphérie et l’augmentation de la capacité des rames.",
+      "title-🔍 Aujourd’hui",
+      "Aujourd’hui, la Ligne T8 transporte environ 40 000 voyageurs par jour. Elle constitue un axe structurant pour le nord francilien, facilitant la mobilité quotidienne, favorisant l’intermodalité et réduisant la congestion routière. La Ligne T8 illustre parfaitement le rôle du tramway moderne dans la desserte périurbaine dense, tout en améliorant l’accès aux pôles d’activité et aux infrastructures éducatives et sociales."
+    ],
+   "images": [
+        { "Path": "assets/press/tgvTest.png", "credits": "© RATP – CC–BY 3.0", "description": "Une rame en bois de la Ligne 1 en 1900" },
+        { "Path": "assets/press/tgvTest.png", "credits": "© RATP – CC–BY 3.0", "description": "La station La Défense, terminus ouest de la Ligne 1" },
+        { "Path": "assets/press/tgvTest.png", "credits": "© RATP – CC–BY 3.0", "description": "Une rame MP 05 automatisée en station" },
+        { "Path": "assets/press/tgvTest.png", "credits": "© RATP – CC–BY 3.0", "description": "Portes palières installées lors de l’automatisation" }
+      ],
+      "sons": [
+        { "Path": "assets/content/images/RERTEST/sonTestRer.mp3", "credits": "© RATP – CC–BY 3.0", "description": "Annonce sonore en gare du Louvre – Rivoli" },
+        { "Path": "assets/content/images/RERTEST/sonTestRer.mp3", "credits": "© RATP – CC–BY 3.0", "description": "Annonce sonore en gare de La Défense" }
+      ],
+      "videos": [
+        { "Path": "m3q2q3668W4", "credits": "© INA / RATP – CC–BY 3.0", "description": "Reportage sur l’histoire de la Ligne 1" },
+        { "Path": "m3q2q3668W4", "credits": "© RATP – CC–BY 3.0", "description": "Présentation du chantier d’automatisation" }
+      ]
+  },
+  "Ligne T9": {
+    "ParagrHist": [
+      "title-Ligne T9 : le tram du sud–est reliant Paris et Orly",
+      "La Ligne T9 relie le centre commercial Orly 4 / Pont de Rungis à la station Montreuil / Val de Fontenay, traversant plusieurs communes du sud–est francilien. Mise en service en 2023, cette ligne de tram moderne a été conçue pour renforcer la desserte locale, améliorer l’accès aux pôles économiques et commerciaux et désengorger les lignes de bus saturées. Avec environ 35 000 voyageurs par jour dès sa première année, la Ligne T9 joue un rôle structurant pour la mobilité quotidienne et l’interconnexion avec le métro, le RER et les autres tramways.",
+      "title-🏗️ Origines et conception (2010–2023)",
+      "Le projet de la Ligne T9 est initié dans le cadre du Plan Tramway francilien pour répondre aux besoins croissants de mobilité dans le sud–est de l’Île–de–France. L’objectif était de relier Orly à la zone de Montreuil / Val de Fontenay via un tracé intégralement en site propre, permettant une circulation rapide et fiable. Les travaux ont inclus la construction de stations modernes, accessibles et sécurisées, l’aménagement d’un tracé adapté au passage des rames, et la mise en place de systèmes de priorité aux feux pour garantir une régularité maximale. Le projet a également prévu des correspondances avec le RER C et le métro 9 à Montreuil.",
+      "title-🚆 Mise en service et premiers services (2023–2024)",
+      "La Ligne T9 est inaugurée en 2023, avec des rames Alstom Citadis circulant toutes les 6 à 10 minutes aux heures de pointe. La desserte rapide et régulière a été immédiatement adoptée par les usagers, facilitant les déplacements quotidiens entre les zones résidentielles, commerciales et les pôles économiques du sud–est francilien. Les correspondances avec le métro et le RER permettent une intermodalité fluide, améliorant l’accès aux grandes gares et au centre de Paris.",
+      "title-📈 Améliorations et modernisation continue (2024–aujourd’hui)",
+      "Depuis son ouverture, la Ligne T9 fait l’objet d’optimisations constantes : adaptation des horaires pour mieux répondre à la demande, amélioration de la fréquence, modernisation des stations avec signalétique numérique et équipements accessibles. L’entretien régulier des rames garantit la fiabilité et le confort du service. Des projets futurs incluent la prolongation potentielle vers des zones en périphérie et l’augmentation de la capacité des rames pour répondre à la demande croissante.",
+      "title-🔍 Aujourd’hui",
+      "Aujourd’hui, la Ligne T9 transporte environ 35 000 voyageurs par jour. Elle constitue un axe essentiel du sud–est francilien, facilitant la mobilité quotidienne, réduisant la congestion routière et améliorant l’interconnexion avec le métro, le RER et les autres lignes de tramway. La Ligne T9 illustre l’importance du tramway moderne dans la desserte périurbaine et la fluidification des déplacements dans des zones densément peuplées et économiquement stratégiques."
+    ],
+  "images": [
+        { "Path": "assets/press/tgvTest.png", "credits": "© RATP – CC–BY 3.0", "description": "Une rame en bois de la Ligne 1 en 1900" },
+        { "Path": "assets/press/tgvTest.png", "credits": "© RATP – CC–BY 3.0", "description": "La station La Défense, terminus ouest de la Ligne 1" },
+        { "Path": "assets/press/tgvTest.png", "credits": "© RATP – CC–BY 3.0", "description": "Une rame MP 05 automatisée en station" },
+        { "Path": "assets/press/tgvTest.png", "credits": "© RATP – CC–BY 3.0", "description": "Portes palières installées lors de l’automatisation" }
+      ],
+      "sons": [
+        { "Path": "assets/content/images/RERTEST/sonTestRer.mp3", "credits": "© RATP – CC–BY 3.0", "description": "Annonce sonore en gare du Louvre – Rivoli" },
+        { "Path": "assets/content/images/RERTEST/sonTestRer.mp3", "credits": "© RATP – CC–BY 3.0", "description": "Annonce sonore en gare de La Défense" }
+      ],
+      "videos": [
+        { "Path": "m3q2q3668W4", "credits": "© INA / RATP – CC–BY 3.0", "description": "Reportage sur l’histoire de la Ligne 1" },
+        { "Path": "m3q2q3668W4", "credits": "© RATP – CC–BY 3.0", "description": "Présentation du chantier d’automatisation" }
+      ]
+  },
+  "Ligne T10": {
+    "ParagrHist": [
+      "title-Ligne T10 : le tram du sud–ouest francilien",
+      "La Ligne T10 relie Antony à Clamart, desservant plusieurs communes du sud–ouest de l’Île–de–France. Mise en service en 2023, elle vise à améliorer la desserte locale, faciliter les correspondances avec le RER B et les lignes de bus, et réduire la congestion sur les axes routiers traditionnels. Avec environ 25 000 voyageurs par jour, la Ligne T10 constitue un axe essentiel pour la mobilité périurbaine, reliant zones résidentielles, pôles d’activité et équipements publics.",
+      "title-🏗️ Origines et conception (2010–2023)",
+      "Le projet de la Ligne T10 est conçu dans le cadre du Plan Tramway francilien afin de créer une liaison rapide et fiable dans le sud–ouest francilien. L’objectif principal est de relier Antony, nœud ferroviaire important avec le RER B, à Clamart, en desservant plusieurs quartiers résidentiels et pôles économiques. Les travaux incluent la construction d’une ligne en site propre, la mise en place de stations accessibles, l’aménagement de correspondances avec les transports existants et l’intégration de feux prioritaires pour les rames afin d’assurer une circulation rapide.",
+      "title-🚆 Mise en service et premiers services (2023–2024)",
+      "La Ligne T10 est inaugurée en 2023, avec des rames modernes circulant toutes les 6 à 10 minutes aux heures de pointe. Les usagers bénéficient d’un service fiable, avec des correspondances efficaces avec le RER B à Antony et plusieurs lignes de bus le long du tracé. Dès les premiers mois, la ligne est adoptée par les habitants, facilitant les déplacements quotidiens et réduisant la saturation des transports en commun classiques dans cette zone du sud–ouest francilien.",
+      "title-📈 Améliorations et modernisation continue (2024–aujourd’hui)",
+      "Depuis sa mise en service, la Ligne T10 est continuellement optimisée. Les fréquences sont adaptées à la demande, les stations modernisées avec signalétique et équipements accessibles, et l’entretien des rames assure confort et fiabilité. Des projets futurs incluent des prolongements éventuels pour mieux desservir les zones périphériques et renforcer les connexions avec les autres lignes de tram et de RER.",
+      "title-🔍 Aujourd’hui",
+      "Aujourd’hui, la Ligne T10 transporte environ 25 000 voyageurs par jour et constitue un axe structurant pour le sud–ouest francilien. Elle améliore la mobilité quotidienne, facilite l’accès aux pôles d’activité et aux équipements publics, et renforce l’intermodalité avec le RER et les lignes de bus. La Ligne T10 illustre parfaitement le rôle du tramway moderne dans le désenclavement des zones périurbaines."
+    ],
+   "images": [
+        { "Path": "assets/press/tgvTest.png", "credits": "© RATP – CC–BY 3.0", "description": "Une rame en bois de la Ligne 1 en 1900" },
+        { "Path": "assets/press/tgvTest.png", "credits": "© RATP – CC–BY 3.0", "description": "La station La Défense, terminus ouest de la Ligne 1" },
+        { "Path": "assets/press/tgvTest.png", "credits": "© RATP – CC–BY 3.0", "description": "Une rame MP 05 automatisée en station" },
+        { "Path": "assets/press/tgvTest.png", "credits": "© RATP – CC–BY 3.0", "description": "Portes palières installées lors de l’automatisation" }
+      ],
+      "sons": [
+        { "Path": "assets/content/images/RERTEST/sonTestRer.mp3", "credits": "© RATP – CC–BY 3.0", "description": "Annonce sonore en gare du Louvre – Rivoli" },
+        { "Path": "assets/content/images/RERTEST/sonTestRer.mp3", "credits": "© RATP – CC–BY 3.0", "description": "Annonce sonore en gare de La Défense" }
+      ],
+      "videos": [
+        { "Path": "m3q2q3668W4", "credits": "© INA / RATP – CC–BY 3.0", "description": "Reportage sur l’histoire de la Ligne 1" },
+        { "Path": "m3q2q3668W4", "credits": "© RATP – CC–BY 3.0", "description": "Présentation du chantier d’automatisation" }
+      ]
+  },
+  "Ligne T11": {
+    "ParagrHist": [
+      "title-Ligne T11 : le tram–train de la boucle nord francilienne",
+      "La Ligne T11 relie Épinay–sur–Seine à Le Bourget, traversant plusieurs communes du nord francilien. Conçue comme un tram–train, elle combine les avantages du tramway et du train pour desservir à la fois des zones urbaines et périurbaines. Mise en service progressivement à partir de 2017, elle joue un rôle stratégique en améliorant les correspondances avec le RER, le métro et les lignes de bus, tout en desservant des zones industrielles et résidentielles en forte croissance.",
+      "title-🏗️ Origines et conception (2005–2017)",
+      "Le projet T11 est né dans le cadre du Schéma directeur des transports d’Île–de–France pour améliorer la desserte du nord francilien, en particulier dans le département de la Seine–Saint–Denis. L’objectif était de créer une liaison efficace entre les gares du RER C, D et E, tout en desservant des zones peu couvertes par les transports en commun. La conception prévoit l’utilisation de rames légères capables de circuler à la fois sur voie ferrée classique et sur voie urbaine, permettant une grande flexibilité. Les travaux incluent la construction de nouvelles stations, la modernisation des voies existantes et l’installation de systèmes de signalisation adaptés au tram–train.",
+      "title-🚆 Mise en service et premiers services (2017–2019)",
+      "Le tronçon initial de la Ligne T11 est inauguré en 2017 entre Épinay–sur–Seine et Le Bourget. Les rames circulent toutes les 10 à 15 minutes aux heures de pointe, offrant une liaison rapide et confortable pour les habitants et les travailleurs du nord francilien. Les correspondances avec le RER B, le RER C et les lignes de bus permettent une intermodalité efficace, facilitant l’accès aux zones industrielles, commerciales et résidentielles desservies par la ligne.",
+      "title-📈 Extensions et modernisation continue (2019–aujourd’hui)",
+      "Depuis 2019, la Ligne T11 bénéficie de plusieurs améliorations : augmentation de la fréquence, modernisation des stations avec signalétique numérique et équipements accessibles, et renforcement de la fiabilité des rames. Des projets d’extension sont à l’étude pour relier davantage de communes du nord de l’Île–de–France et améliorer la desserte des zones périurbaines. L’exploitation en tram–train permet également d’adapter les services en fonction de la demande et de garantir une grande flexibilité dans la circulation sur le réseau existant.",
+      "title-🔍 Aujourd’hui",
+      "Aujourd’hui, la Ligne T11 transporte environ 20 000 voyageurs par jour. Elle constitue un axe structurant pour le nord francilien, facilitant la mobilité entre les zones résidentielles, industrielles et commerciales et améliorant l’interconnexion avec le RER, le métro et les autres lignes de tramway. La Ligne T11 illustre le rôle innovant du tram–train dans la mobilité périurbaine et son potentiel pour désenclaver des territoires à forte densité."
+    ],
+  "images": [
+        { "Path": "assets/press/tgvTest.png", "credits": "© RATP – CC–BY 3.0", "description": "Une rame en bois de la Ligne 1 en 1900" },
+        { "Path": "assets/press/tgvTest.png", "credits": "© RATP – CC–BY 3.0", "description": "La station La Défense, terminus ouest de la Ligne 1" },
+        { "Path": "assets/press/tgvTest.png", "credits": "© RATP – CC–BY 3.0", "description": "Une rame MP 05 automatisée en station" },
+        { "Path": "assets/press/tgvTest.png", "credits": "© RATP – CC–BY 3.0", "description": "Portes palières installées lors de l’automatisation" }
+      ],
+      "sons": [
+        { "Path": "assets/content/images/RERTEST/sonTestRer.mp3", "credits": "© RATP – CC–BY 3.0", "description": "Annonce sonore en gare du Louvre – Rivoli" },
+        { "Path": "assets/content/images/RERTEST/sonTestRer.mp3", "credits": "© RATP – CC–BY 3.0", "description": "Annonce sonore en gare de La Défense" }
+      ],
+      "videos": [
+        { "Path": "m3q2q3668W4", "credits": "© INA / RATP – CC–BY 3.0", "description": "Reportage sur l’histoire de la Ligne 1" },
+        { "Path": "m3q2q3668W4", "credits": "© RATP – CC–BY 3.0", "description": "Présentation du chantier d’automatisation" }
+      ]
+  },
+  "Ligne T12": {
+    "ParagrHist": [
+      "title-Ligne T12 : le tram–train du sud de l’Essonne",
+      "La Ligne T12 relie Massy–Palaiseau à Évry–Courcouronnes, traversant 12 communes du sud de l’Île–de–France. Mise en service le 10 décembre 2023, elle constitue une nouvelle offre de transport en commun rapide et accessible, reliant des pôles économiques et résidentiels majeurs de l’Essonne. Avec 16 stations et une longueur de 20 km, elle permet de relier Massy à Évry en 39 minutes, offrant ainsi une alternative efficace à la voiture et renforçant l’intermodalité avec les lignes de RER B, C et D.",
+      "title-🏗️ Origines et conception (2013–2023)",
+      "Le projet de la Ligne T12 trouve son origine dans le projet de Tangentielle Sud, visant à relier la ville de Versailles à celle de Melun en passant par Massy et Évry–Courcouronnes. Après plusieurs phases de conception et de travaux, la ligne a été inaugurée le 9 décembre 2023, avec une mise en service effective le 10 décembre 2023. La conception de la ligne a inclus la création de nouvelles stations, la mise en accessibilité de l’ensemble des gares aux personnes à mobilité réduite, et la suppression de plusieurs passages à niveau.",
+      "title-🚆 Mise en service et premiers services (2023–2024)",
+      "La Ligne T12 a été mise en service le 10 décembre 2023, avec des fréquences réduites en raison du manque de conducteurs et de l’indisponibilité de certains équipements dans les stations. Malgré ces difficultés initiales, la ligne a rapidement gagné en popularité, avec une ponctualité annuelle de 79 % en 2024. Les correspondances avec les lignes de RER B, C et D, ainsi qu’avec plusieurs lignes de bus, ont facilité l’intégration de la ligne dans le réseau de transport en commun de l’Île–de–France.",
+      "title-📈 Performances et perspectives (2024–aujourd’hui)",
+      "En 2024, la Ligne T12 a transporté environ 40 000 voyageurs par jour. Des efforts ont été déployés pour améliorer la ponctualité et la fiabilité du service, avec des investissements dans la formation des conducteurs et la modernisation des infrastructures. Des projets d’extension et de prolongation de la ligne sont à l’étude pour renforcer encore la desserte du sud de l’Essonne et améliorer l’interconnexion avec d’autres lignes de transport en commun.",
+      "title-🔍 Aujourd’hui",
+      "Aujourd’hui, la Ligne T12 continue de jouer un rôle clé dans la mobilité du sud de l’Essonne, offrant une alternative rapide et accessible à la voiture pour les trajets entre Massy–Palaiseau et Évry–Courcouronnes. Elle contribue à la réduction de la congestion routière et à l’amélioration de la qualité de l’air, tout en favorisant le développement économique et urbain de la région."
+    ],
+"images": [
+        { "Path": "assets/press/tgvTest.png", "credits": "© RATP – CC–BY 3.0", "description": "Une rame en bois de la Ligne 1 en 1900" },
+        { "Path": "assets/press/tgvTest.png", "credits": "© RATP – CC–BY 3.0", "description": "La station La Défense, terminus ouest de la Ligne 1" },
+        { "Path": "assets/press/tgvTest.png", "credits": "© RATP – CC–BY 3.0", "description": "Une rame MP 05 automatisée en station" },
+        { "Path": "assets/press/tgvTest.png", "credits": "© RATP – CC–BY 3.0", "description": "Portes palières installées lors de l’automatisation" }
+      ],
+      "sons": [
+        { "Path": "assets/content/images/RERTEST/sonTestRer.mp3", "credits": "© RATP – CC–BY 3.0", "description": "Annonce sonore en gare du Louvre – Rivoli" },
+        { "Path": "assets/content/images/RERTEST/sonTestRer.mp3", "credits": "© RATP – CC–BY 3.0", "description": "Annonce sonore en gare de La Défense" }
+      ],
+      "videos": [
+        { "Path": "m3q2q3668W4", "credits": "© INA / RATP – CC–BY 3.0", "description": "Reportage sur l’histoire de la Ligne 1" },
+        { "Path": "m3q2q3668W4", "credits": "© RATP – CC–BY 3.0", "description": "Présentation du chantier d’automatisation" }
+      ]
+  },
+  "Ligne T13": {
+    "ParagrHist": [
+      "title-Ligne T13 Express : le tram–train de l’ouest francilien",
+      "La Ligne T13 Express relie Saint–Germain–en–Laye à Saint–Cyr–l’École, traversant 8 communes de l’ouest de l’Île–de–France. Mise en service le 6 juillet 2022, elle constitue une alternative rapide et écologique à la voiture pour les trajets entre ces deux villes, en desservant des zones résidentielles et des pôles d’activité majeurs. Avec 12 stations et une longueur de 18,8 km, elle permet de relier Saint–Germain–en–Laye à Saint–Cyr–l’École en environ 32 minutes.",
+      "title-🏗️ Origines et conception (2014–2022)",
+      "Le projet de la Ligne T13, anciennement appelé Tangentielle Ouest puis Tram Express Ouest, visait à créer une liaison rapide entre Saint–Germain–en–Laye et Saint–Cyr–l’École, en réutilisant une partie de l’ancienne Grande Ceinture Ouest. La conception de la ligne a inclus la modernisation des infrastructures existantes, la construction de nouvelles stations accessibles aux personnes à mobilité réduite, et l’acquisition de rames adaptées au tram–train. Le projet a été reconnu d’utilité publique en 2014 et a été inauguré le 6 juillet 2022.",
+      "title-🚆 Mise en service et premiers services (2022–2023)",
+      "La Ligne T13 a été mise en service le 6 juillet 2022, avec des fréquences de passage de 15 minutes en heures de pointe et de 20 minutes en dehors des heures de pointe. Les rames Citadis Dualis, adaptées au tram–train, circulent sur une ligne double voie, offrant une capacité de transport accrue. Les correspondances avec les lignes de RER A et C, ainsi qu’avec plusieurs lignes de bus, facilitent l’intermodalité pour les usagers.",
+      "title-📈 Performances et perspectives (2023–aujourd’hui)",
+      "Depuis sa mise en service, la Ligne T13 a transporté plusieurs milliers de voyageurs, contribuant à la réduction de la congestion routière et à l’amélioration de la qualité de l’air dans l’ouest francilien. Des projets d’extension sont à l’étude pour prolonger la ligne vers la gare RER d’Achères–Ville, via Poissy, afin de renforcer la desserte du territoire et d’améliorer l’interconnexion avec d’autres lignes de transport en commun.",
+      "title-🔍 Aujourd’hui",
+      "Aujourd’hui, la Ligne T13 continue de jouer un rôle clé dans la mobilité de l’ouest francilien, offrant une alternative rapide, écologique et accessible à la voiture pour les trajets entre Saint–Germain–en–Laye et Saint–Cyr–l’École. Elle contribue à la fluidité des déplacements, à la réduction de la pollution et au développement durable de la région."
+    ],
+   "images": [
+        { "Path": "assets/press/tgvTest.png", "credits": "© RATP – CC–BY 3.0", "description": "Une rame en bois de la Ligne 1 en 1900" },
+        { "Path": "assets/press/tgvTest.png", "credits": "© RATP – CC–BY 3.0", "description": "La station La Défense, terminus ouest de la Ligne 1" },
+        { "Path": "assets/press/tgvTest.png", "credits": "© RATP – CC–BY 3.0", "description": "Une rame MP 05 automatisée en station" },
+        { "Path": "assets/press/tgvTest.png", "credits": "© RATP – CC–BY 3.0", "description": "Portes palières installées lors de l’automatisation" }
+      ],
+      "sons": [
+        { "Path": "assets/content/images/RERTEST/sonTestRer.mp3", "credits": "© RATP – CC–BY 3.0", "description": "Annonce sonore en gare du Louvre – Rivoli" },
+        { "Path": "assets/content/images/RERTEST/sonTestRer.mp3", "credits": "© RATP – CC–BY 3.0", "description": "Annonce sonore en gare de La Défense" }
+      ],
+      "videos": [
+        { "Path": "m3q2q3668W4", "credits": "© INA / RATP – CC–BY 3.0", "description": "Reportage sur l’histoire de la Ligne 1" },
+        { "Path": "m3q2q3668W4", "credits": "© RATP – CC–BY 3.0", "description": "Présentation du chantier d’automatisation" }
+      ]
+  },
+  "Ligne T14": {
+    "ParagrHist": [
+      "title-Ligne T14 : le tram–train de l’est francilien",
+      "La Ligne T14 relie Esbly à Crécy–la–Chapelle, traversant 5 communes de l’est de l’Île–de–France. Mise en service le 22 mars 2025, elle constitue une alternative rapide et écologique à la voiture pour les trajets entre ces deux villes, en desservant des zones résidentielles et des pôles d’activité majeurs. Avec 5 stations et une longueur de 9,9 km, elle permet de relier Esbly à Crécy–la–Chapelle en environ 12 minutes.",
+      "title-🏗️ Origines et conception (1902–2025)",
+      "Le projet de la Ligne T14 trouve ses racines dans la ligne d’Esbly à Crécy–la–Chapelle, ouverte en 1902 pour faciliter le transport des habitants de la vallée du Grand Morin. Initialement exploitée par la Compagnie des chemins de fer de l'Est puis par la SNCF, la ligne a été intégrée au réseau Transilien en 2004. En 2011, elle a été convertie en tram–train avec l’introduction des rames Siemens Avanto, remplacées en 2022 par les Alstom Citadis Dualis. Le 22 mars 2025, la ligne a été détachée du Transilien P pour devenir la ligne T14, exploitée par le groupement Stretto, composé de Keolis et SNCF Voyageurs.",
+      "title-🚆 Mise en service et premiers services (2025)",
+      "La Ligne T14 a été mise en service le 22 mars 2025, avec des horaires et des tarifs restant identiques à ceux de la ligne P précédente. Les rames Citadis Dualis circulent sur une ligne simple voie, offrant une capacité de transport adaptée à la fréquentation de la ligne. Les correspondances avec les lignes de RER et les lignes de bus facilitent l’intermodalité pour les usagers.",
+      "title-📈 Performances et perspectives (2025–aujourd’hui)",
+      "Depuis sa mise en service, la Ligne T14 a transporté plusieurs milliers de voyageurs, contribuant à la réduction de la congestion routière et à l’amélioration de la qualité de l’air dans l’est francilien. Des projets d’extension sont à l’étude pour prolonger la ligne vers d’autres communes de la vallée du Grand Morin, afin de renforcer la desserte du territoire et d’améliorer l’interconnexion avec d’autres lignes de transport en commun.",
+      "title-🔍 Aujourd’hui",
+      "Aujourd’hui, la Ligne T14 continue de jouer un rôle clé dans la mobilité de l’est francilien, offrant une alternative rapide, écologique et accessible à la voiture pour les trajets entre Esbly et Crécy–la–Chapelle. Elle contribue à la fluidité des déplacements, à la réduction de la pollution et au développement durable de la région."
+    ],
+    "images": [
+        { "Path": "assets/press/tgvTest.png", "credits": "© RATP – CC–BY 3.0", "description": "Une rame en bois de la Ligne 1 en 1900" },
+        { "Path": "assets/press/tgvTest.png", "credits": "© RATP – CC–BY 3.0", "description": "La station La Défense, terminus ouest de la Ligne 1" },
+        { "Path": "assets/press/tgvTest.png", "credits": "© RATP – CC–BY 3.0", "description": "Une rame MP 05 automatisée en station" },
+        { "Path": "assets/press/tgvTest.png", "credits": "© RATP – CC–BY 3.0", "description": "Portes palières installées lors de l’automatisation" }
+      ],
+      "sons": [
+        { "Path": "assets/content/images/RERTEST/sonTestRer.mp3", "credits": "© RATP – CC–BY 3.0", "description": "Annonce sonore en gare du Louvre – Rivoli" },
+        { "Path": "assets/content/images/RERTEST/sonTestRer.mp3", "credits": "© RATP – CC–BY 3.0", "description": "Annonce sonore en gare de La Défense" }
+      ],
+      "videos": [
+        { "Path": "m3q2q3668W4", "credits": "© INA / RATP – CC–BY 3.0", "description": "Reportage sur l’histoire de la Ligne 1" },
+        { "Path": "m3q2q3668W4", "credits": "© RATP – CC–BY 3.0", "description": "Présentation du chantier d’automatisation" }
+      ]
+  }
+}
+]

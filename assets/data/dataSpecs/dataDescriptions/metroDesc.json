@@ -1,0 +1,66 @@
+[
+  {
+    "logo": "assets/transportLogo/metro/Ligne1.svg",
+    "description": "La ligne 1 est la plus ancienne du métro parisien et l’une des plus fréquentées. Automatisée, elle relie La Défense à Château de Vincennes en traversant Paris d’ouest en est."
+  },
+  {
+    "logo": "assets/transportLogo/metro/Ligne2.svg",
+    "description": "La ligne 2 forme un arc au nord de Paris, de Porte Dauphine à Nation, en passant par Barbès, Anvers et Belleville. Elle est connue pour ses stations aériennes et ses vues sur Paris."
+  },
+  {
+    "logo": "assets/transportLogo/metro/Ligne3.svg",
+    "description": "La ligne 3 relie Pont de Levallois à Gallieni. Elle traverse l’est parisien en passant par Opéra et République. Elle transporte quotidiennement des milliers de voyageurs."
+  },
+  {
+    "logo": "assets/transportLogo/metro/Ligne3bis.svg",
+    "description": "La ligne 3bis est une courte antenne de la ligne 3 entre Gambetta et Porte des Lilas. Elle ne comporte que 4 stations et propose un service de proximité dans l’est parisien."
+  },
+  {
+    "logo": "assets/transportLogo/metro/Ligne4.svg",
+    "description": "La ligne 4 relie Bagneux à la porte de Clignancourt. Entièrement automatisée depuis 2023, elle traverse Paris du nord au sud en passant par Châtelet et Montparnasse."
+  },
+  {
+    "logo": "assets/transportLogo/metro/Ligne5.svg",
+    "description": "La ligne 5 relie Bobigny à Place d’Italie. Elle traverse le nord-est parisien et passe par des points majeurs comme Gare du Nord, Bastille et Gare d’Austerlitz."
+  },
+  {
+    "logo": "assets/transportLogo/metro/Ligne6.svg",
+    "description": "La ligne 6 relie Nation à Charles de Gaulle – Étoile. Elle est célèbre pour sa portion aérienne offrant une vue sur la Tour Eiffel et la Seine."
+  },
+  {
+    "logo": "assets/transportLogo/metro/Ligne7.svg",
+    "description": "La ligne 7 relie La Courneuve à Villejuif ou Ivry grâce à une bifurcation. Elle dessert 38 stations, notamment Opéra, Châtelet et Place d’Italie."
+  },
+  {
+    "logo": "assets/transportLogo/metro/Ligne7bis.svg",
+    "description": "La ligne 7bis relie Louis Blanc à Pré Saint-Gervais. Courte et locale, elle dessert l’est de Paris avec une quinzaine de stations."
+  },
+  {
+    "logo": "assets/transportLogo/metro/Ligne8.svg",
+    "description": "La ligne 8 relie Balard à Créteil. Elle traverse Paris du sud-ouest au sud-est, avec des arrêts comme Opéra, Bastille et République."
+  },
+  {
+    "logo": "assets/transportLogo/metro/Ligne9.svg",
+    "description": "La ligne 9 part de Pont de Sèvres et va jusqu’à Mairie de Montreuil. Elle dessert le sud et l’est parisien en passant par Trocadéro et Nation."
+  },
+  {
+    "logo": "assets/transportLogo/metro/Ligne10.svg",
+    "description": "La ligne 10 relie Boulogne à Gare d’Austerlitz. Elle dessert l’ouest parisien et le quartier latin via Odéon et Cluny - La Sorbonne."
+  },
+  {
+    "logo": "assets/transportLogo/metro/Ligne11.svg",
+    "description": "La ligne 11 relie Châtelet à Rosny-Bois-Perrier (extension récente). Elle dessert le nord-est parisien avec un matériel moderne (MP14)."
+  },
+  {
+    "logo": "assets/transportLogo/metro/Ligne12.svg",
+    "description": "La ligne 12 va de Mairie d’Aubervilliers à Mairie d’Issy, traversant Paris du nord au sud-ouest. Elle est l’une des plus anciennes du réseau."
+  },
+  {
+    "logo": "assets/transportLogo/metro/Ligne13.svg",
+    "description": "La ligne 13 relie deux branches nord (Saint-Denis et Gennevilliers) à Châtillon. Très fréquentée, elle dessert de nombreux pôles majeurs."
+  },
+  {
+    "logo": "assets/transportLogo/metro/Ligne14.svg",
+    "description": "La ligne 14 est entièrement automatisée. Elle relie Saint-Denis Pleyel à Orly en traversant Paris rapidement. C’est la ligne la plus moderne du métro."
+  }
+]
