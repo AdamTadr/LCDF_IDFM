@@ -1,0 +1,45 @@
+name: lcdf_idfm
+description: "A new Flutter project."
+publish_to: 'none'
+version: 0.1.0
+
+environment:
+  sdk: ^3.8.1
+
+dependencies:
+  flutter_svg: ^2.0.7
+  just_audio: ^0.9.39
+  audio_video_progress_bar: ^1.0.1
+  pod_player: ^0.2.2
+  webview_flutter: ^4.7.0 
+  http: ^1.1.0
+  excel: ^2.0.0
+  url_launcher: ^6.2.5
+  flutter:
+    sdk: flutter
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^5.0.0
+
+flutter:
+  uses-material-design: true
+  assets:
+    - assets/appBarLogo/
+    - assets/press/
+    - assets/elements/
+    - assets/transportLogo/rer/ratp/
+    - assets/transportLogo/rer/sncf/
+    - assets/transportLogo/tramway/ratp/
+    - assets/transportLogo/tramway/sncf/
+    - assets/transportLogo/transilien/rer/
+    - assets/transportLogo/transilien/tramway/
+    - assets/transportLogo/metro/
+    - assets/transportLogo/transilien/only/
+    - assets/content/images/RERTEST/
+    - assets/data/dataSpecs/StatsLignes.xlsx
+    - assets/data/dataSpecs/StatsTrains.xlsx
+    - assets/data/dataSpecs/dataDescriptions/
+    - assets/data/dataHistoryAndContent/
+    - assets/transportLogo/trainModel/
